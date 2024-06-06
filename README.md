@@ -1,16 +1,13 @@
-
----
+# Practice Linux Programming Projects
 
 <div align="center">
 <img width="128px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
 </div>
 
-## Linux
-
 Linux is one of the most popular operating systems in the world. It is used in everything from desktop computers to servers and even mobile devices. This skill tree will teach you how to use Linux from the command line, as well as some basic system administration tasks like installing software and managing users.
 
-|   Index | Name                                              | Level   | Project Link                                                                                           |
-|---------|---------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------|
+|   Index | Name                                              | Level   | Project Link                                                                                            |
+|---------|---------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------|
 |      01 | Installing and Configuring a Mail Server          | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-installing-and-configuring-a-mail-server)          |
 |      02 | Build a Linux System Monitor Using Bash           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-linux-system-monitor-using-bash)           |
 |      03 | Build a Task Scheduler Using Bash                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-task-scheduler-using-bash)                 |
@@ -41,8 +38,9 @@ Linux is one of the most popular operating systems in the world. It is used in e
 |      28 | Searching for Specific Files                      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-searching-for-specific-files)                      |
 |      29 | Samba File Sharing on Linux                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-service-management)                                |
 
-### More
+## More
 
-- 🔗 [Linux Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#linux)
 - 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
