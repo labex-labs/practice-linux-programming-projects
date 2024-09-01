@@ -4,7 +4,7 @@
 <img width="128px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
 </div>
 
-Linux is one of the most popular operating systems in the world. It is used in everything from desktop computers to servers and even mobile devices. This skill tree will teach you how to use Linux from the command line, as well as some basic system administration tasks like installing software and managing users.
+Linux is one of the world's most popular operating systems, used in everything from desktop computers to servers and mobile devices. This LabEx skill tree offers a unique hands-on approach to learning Linux through an online virtual environment. You'll master the command line interface and basic system administration tasks like software installation and user management. With LabEx, you can practice commands in real-time, receive instant feedback, and progress at your own pace. Ready to start your Linux journey? Click "Start" to dive into our interactive virtual environment and explore the power of Linux firsthand!
 
 |   Index | Name                                                                                                                                    | Level   | Project Link                                                                                  |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------|---------|-----------------------------------------------------------------------------------------------|
@@ -36,7 +36,7 @@ Linux is one of the most popular operating systems in the world. It is used in e
 |      26 | [Random Password Generator Development](https://labex.io/courses/project-password-generator)                                            | ★☆☆     | [🚀 Start](https://labex.io/courses/project-password-generator)                                |
 |      27 | [Restore Access to Website](https://labex.io/courses/project-restore-access-to-website)                                                 | ★☆☆     | [🚀 Start](https://labex.io/courses/project-restore-access-to-website)                         |
 |      28 | [Searching for Specific Files](https://labex.io/courses/project-searching-for-specific-files)                                           | ★☆☆     | [🚀 Start](https://labex.io/courses/project-searching-for-specific-files)                      |
-|      29 | [Samba File Sharing on Linux](https://labex.io/courses/project-service-management)                                                      | ★☆☆     | [🚀 Start](https://labex.io/courses/project-service-management)                                |
+|      29 | [Samba File Sharing on Linux](https://labex.io/courses/project-samba-file-sharing-on-linux)                                             | ★☆☆     | [🚀 Start](https://labex.io/courses/project-samba-file-sharing-on-linux)                       |
 
 ## More Projects
 
