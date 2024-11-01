@@ -8,14 +8,14 @@ Linux is a powerful, open-source operating system. This Skill Tree offers a comp
 
 |   Index | Name                                                                                                                                    | Level   | Project Link                                                                                  |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------|---------|-----------------------------------------------------------------------------------------------|
-|      01 | [Installing and Configuring a Mail Server](https://labex.io/courses/project-installing-and-configuring-a-mail-server)                   | ★☆☆     | [🚀 Start](https://labex.io/courses/project-installing-and-configuring-a-mail-server)          |
-|      02 | [Build a Linux System Monitor Using Bash](https://labex.io/courses/project-build-a-linux-system-monitor-using-bash)                     | ★☆☆     | [🚀 Start](https://labex.io/courses/project-build-a-linux-system-monitor-using-bash)           |
-|      03 | [Build a Task Scheduler Using Bash](https://labex.io/courses/project-build-a-task-scheduler-using-bash)                                 | ★☆☆     | [🚀 Start](https://labex.io/courses/project-build-a-task-scheduler-using-bash)                 |
-|      04 | [Creating a Typing Game Using Bash](https://labex.io/courses/project-creating-a-typing-game-using-bash)                                 | ★☆☆     | [🚀 Start](https://labex.io/courses/project-creating-a-typing-game-using-bash)                 |
-|      05 | [Reverse Shell to Control Multiple Targets](https://labex.io/courses/project-reverse-shell-to-control-multiple-targets)                 | ★☆☆     | [🚀 Start](https://labex.io/courses/project-reverse-shell-to-control-multiple-targets)         |
-|      06 | [Deploying MobileNet With TensorFlow.js and Flask](https://labex.io/courses/project-deploying-mobilenet-with-tensorflowjs-and-flask)    | ★☆☆     | [🚀 Start](https://labex.io/courses/project-deploying-mobilenet-with-tensorflowjs-and-flask)   |
-|      07 | [Deploying a Simple TensorFlow Model](https://labex.io/courses/project-deploying-a-simple-tensorflow-model)                             | ★☆☆     | [🚀 Start](https://labex.io/courses/project-deploying-a-simple-tensorflow-model)               |
-|      08 | [Build a Simple URL Shortener With Flask and MySQL](https://labex.io/courses/project-build-a-simple-url-shortener-with-flask-and-mysql) | ★★★     | [🚀 Start](https://labex.io/courses/project-build-a-simple-url-shortener-with-flask-and-mysql) |
+|      01 | [Build a Linux System Monitor Using Bash](https://labex.io/courses/project-build-a-linux-system-monitor-using-bash)                     | ★☆☆     | [🚀 Start](https://labex.io/courses/project-build-a-linux-system-monitor-using-bash)           |
+|      02 | [Build a Task Scheduler Using Bash](https://labex.io/courses/project-build-a-task-scheduler-using-bash)                                 | ★☆☆     | [🚀 Start](https://labex.io/courses/project-build-a-task-scheduler-using-bash)                 |
+|      03 | [Creating a Typing Game Using Bash](https://labex.io/courses/project-creating-a-typing-game-using-bash)                                 | ★☆☆     | [🚀 Start](https://labex.io/courses/project-creating-a-typing-game-using-bash)                 |
+|      04 | [Deploying MobileNet With TensorFlow.js and Flask](https://labex.io/courses/project-deploying-mobilenet-with-tensorflowjs-and-flask)    | ★☆☆     | [🚀 Start](https://labex.io/courses/project-deploying-mobilenet-with-tensorflowjs-and-flask)   |
+|      05 | [Deploying a Simple TensorFlow Model](https://labex.io/courses/project-deploying-a-simple-tensorflow-model)                             | ★☆☆     | [🚀 Start](https://labex.io/courses/project-deploying-a-simple-tensorflow-model)               |
+|      06 | [Build a Simple URL Shortener With Flask and MySQL](https://labex.io/courses/project-build-a-simple-url-shortener-with-flask-and-mysql) | ★★★     | [🚀 Start](https://labex.io/courses/project-build-a-simple-url-shortener-with-flask-and-mysql) |
+|      07 | [Reverse Shell to Control Multiple Targets](https://labex.io/courses/project-reverse-shell-to-control-multiple-targets)                 | ★☆☆     | [🚀 Start](https://labex.io/courses/project-reverse-shell-to-control-multiple-targets)         |
+|      08 | [Installing and Configuring a Mail Server](https://labex.io/courses/project-installing-and-configuring-a-mail-server)                   | ★☆☆     | [🚀 Start](https://labex.io/courses/project-installing-and-configuring-a-mail-server)          |
 |      09 | [Installing a Git Server](https://labex.io/courses/project-installing-a-git-server)                                                     | ★☆☆     | [🚀 Start](https://labex.io/courses/project-installing-a-git-server)                           |
 |      10 | [Chess Board in Terminal](https://labex.io/courses/project-chess-board-in-terminal)                                                     | ★★☆     | [🚀 Start](https://labex.io/courses/project-chess-board-in-terminal)                           |
 |      11 | [Changing the Error Log Location](https://labex.io/courses/project-changing-the-error-log-location)                                     | ★☆☆     | [🚀 Start](https://labex.io/courses/project-changing-the-error-log-location)                   |
@@ -42,7 +42,7 @@ Linux is a powerful, open-source operating system. This Skill Tree offers a comp
 
 - [Linux Programming Projects](https://github.com/labex-labs/practice-linux-programming-projects)
 - [DevOps Programming Projects](https://github.com/labex-labs/practice-devops-programming-projects)
-- [Cyber Security Programming Projects](https://github.com/labex-labs/practice-cysec-programming-projects)
+- [Cybersecurity Programming Projects](https://github.com/labex-labs/practice-cybersecurity-programming-projects)
 - [Python Programming Projects](https://github.com/labex-labs/practice-python-programming-projects)
 - [Docker Programming Projects](https://github.com/labex-labs/practice-docker-programming-projects)
 - [Data Science Programming Projects](https://github.com/labex-labs/practice-data-science-programming-projects)
@@ -59,10 +59,7 @@ Linux is a powerful, open-source operating system. This Skill Tree offers a comp
 - [C++ Programming Projects](https://github.com/labex-labs/practice-cpp-programming-projects)
 - [C Programming Projects](https://github.com/labex-labs/practice-c-programming-projects)
 - [MySQL Programming Projects](https://github.com/labex-labs/practice-mysql-programming-projects)
-- [Go Programming Projects](https://github.com/labex-labs/practice-go-programming-projects)
-- [Rust Programming Projects](https://github.com/labex-labs/practice-rust-programming-projects)
-- [OpenCV Programming Projects](https://github.com/labex-labs/practice-opencv-programming-projects)
-- [Django Programming Projects](https://github.com/labex-labs/practice-django-programming-projects)
+- [Golang Programming Projects](https://github.com/labex-labs/practice-go-programming-projects)
 - [Pandas Programming Projects](https://github.com/labex-labs/practice-pandas-programming-projects)
 - [NumPy Programming Projects](https://github.com/labex-labs/practice-numpy-programming-projects)
 - [scikit-learn Programming Projects](https://github.com/labex-labs/practice-sklearn-programming-projects)
@@ -72,7 +69,6 @@ Linux is a powerful, open-source operating system. This Skill Tree offers a comp
 - [CSS Programming Projects](https://github.com/labex-labs/practice-css-programming-projects)
 - [JavaScript Programming Projects](https://github.com/labex-labs/practice-javascript-programming-projects)
 - [React Programming Projects](https://github.com/labex-labs/practice-react-programming-projects)
-- [jQuery Programming Projects](https://github.com/labex-labs/practice-jquery-programming-projects)
 
 
 ## Other Lists
