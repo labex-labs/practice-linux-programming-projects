@@ -1,4 +1,4 @@
-# Linux
+# Linux 编程项目实战
 
 ## 支持语言
 
@@ -39,7 +39,7 @@ Linux 是一款强大的开源操作系统。此技能树为掌握 Linux 系统�
 
 ## 更多
 
-- 🔗 [Linux 了解更多关于](https://labex.io/zh/skilltrees/linux)
+- 🔗 [Linux 了解更多](https://labex.io/zh/skilltrees/linux)
 - 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
