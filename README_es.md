@@ -1,4 +1,4 @@
-# Linux
+# Práctica de Proyectos de Programación de Linux
 
 ## Idiomas
 
