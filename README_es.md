@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
 </div>
 
-Linux es un sistema operativo potente y de código abierto. Este Skill Tree proporciona un camino de aprendizaje integral para dominar la administración de Linux. Ideal para principiantes en TI, ofrece una hoja de ruta clara para entender las interfaces de línea de comandos, la administración del sistema y la programación de scripts. A través de cursos prácticos sin video y ejercicios en un entorno interactivo de shell, adquirirás experiencia real en la gestión de sistemas Linux y la automatización de tareas.
+Aprende Linux con esta completa ruta de aprendizaje diseñada para principiantes. Estos cursos prácticos de Linux proporcionan una hoja de ruta clara para dominar la administración de Linux, desde la interfaz de línea de comandos hasta la administración de sistemas y la programación de scripts de shell. Adquiere experiencia en el mundo real a través de ejercicios prácticos sin vídeo en un entorno de shell interactivo, centrándose en la gestión de sistemas Linux y la automatización de tareas.
 
 ## Ejercicios
 
@@ -36,6 +36,8 @@ Linux es un sistema operativo potente y de código abierto. Este Skill Tree prop
 |       20 | [Implementar un comando personalizado con soporte para papelera](https://labex.io/es/courses/project-avoid-accidental-deletion)           | Principiante | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/project-avoid-accidental-deletion)                      |
 |       21 | [Estadísticas de Paquetes de Datos de Red](https://labex.io/es/courses/project-network-data-packet-statistics)                            | Principiante | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/project-network-data-packet-statistics)                 |
 |       22 | [Desarrollo de un Generador de Contraseñas Aleatorias](https://labex.io/es/courses/project-password-generator)                            | Principiante | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/project-password-generator)                             |
+|       23 | [Escaneo con Nmap y Acceso Telnet](https://labex.io/es/courses/project-nmap-port-scanning-and-telnet-access)                              | Principiante | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/project-nmap-port-scanning-and-telnet-access)           |
+|       24 | [Enumeración FTP y Acceso Anónimo](https://labex.io/es/courses/project-ftp-enumeration-and-anonymous-access)                              | Principiante | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/project-ftp-enumeration-and-anonymous-access)           |
 
 ## Más
 
