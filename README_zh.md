@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
 </div>
 
-Linux 是一款强大的开源操作系统。此技能树为掌握 Linux 系统管理提供了全面的学习路径。它非常适合 IT 初学者，能为你清晰指引理解命令行界面、系统管理和 shell 脚本编写的学习方向。通过交互式 shell 环境中的实践课程（非视频课程）和实际操作练习，你将获得管理 Linux 系统和自动化任务的实际经验。
+通过这条专为初学者设计的综合学习路径来学习 Linux。这些实用的 Linux 课程提供了一条清晰的路线图，帮助您掌握 Linux 管理，从命令行界面到系统管理和 Shell 脚本。通过交互式 Shell 演练场中的动手实践（非视频）练习，获得真实世界的经验，专注于管理 Linux 系统和自动化任务。
 
 ## 练习
 
@@ -36,6 +36,8 @@ Linux 是一款强大的开源操作系统。此技能树为掌握 Linux 系统�
 |     20 | [实现自定义回收站功能命令](https://labex.io/zh/courses/project-avoid-accidental-deletion)                        | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-avoid-accidental-deletion)                      |
 |     21 | [网络数据包统计](https://labex.io/zh/courses/project-network-data-packet-statistics)                             | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-network-data-packet-statistics)                 |
 |     22 | [随机密码生成器开发](https://labex.io/zh/courses/project-password-generator)                                     | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-password-generator)                             |
+|     23 | [Nmap 扫描与 Telnet 访问](https://labex.io/zh/courses/project-nmap-port-scanning-and-telnet-access)              | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-nmap-port-scanning-and-telnet-access)           |
+|     24 | [FTP 枚举与匿名访问](https://labex.io/zh/courses/project-ftp-enumeration-and-anonymous-access)                   | 初级   | [🚀 开始实验](https://labex.io/zh/courses/project-ftp-enumeration-and-anonymous-access)           |
 
 ## 更多
 
