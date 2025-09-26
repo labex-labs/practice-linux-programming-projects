@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
 </div>
 
-Linux est un système d'exploitation puissant et open - source. Cet arbre de compétences propose un parcours d'apprentissage complet pour maîtriser l'administration de Linux. Idéal pour les débutants en informatique, il offre une feuille de route claire pour comprendre les interfaces en ligne de commande, l'administration système et le scripting shell. Grâce à des cours pratiques sans vidéo et des exercices dans un environnement interactif, vous acquerrez une expérience concrète dans la gestion des systèmes Linux et l'automatisation des tâches.
+Apprenez Linux grâce à ce parcours d'apprentissage complet conçu pour les débutants. Ces cours pratiques sur Linux offrent une feuille de route claire pour maîtriser l'administration Linux, de l'interface en ligne de commande à l'administration système et aux scripts shell. Acquérez une expérience concrète grâce à des exercices pratiques non-vidéo dans un environnement de shell interactif, en vous concentrant sur la gestion des systèmes Linux et l'automatisation des tâches.
 
 ## Exercices
 
@@ -36,6 +36,8 @@ Linux est un système d'exploitation puissant et open - source. Cet arbre de com
 |      20 | [Implémenter une commande personnalisée avec gestion de la corbeille](https://labex.io/fr/courses/project-avoid-accidental-deletion)                 | Débutant      | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-avoid-accidental-deletion)                      |
 |      21 | [Statistiques des paquets de données réseau](https://labex.io/fr/courses/project-network-data-packet-statistics)                                     | Débutant      | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-network-data-packet-statistics)                 |
 |      22 | [Développement d'un générateur de mots de passe aléatoires](https://labex.io/fr/courses/project-password-generator)                                  | Débutant      | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-password-generator)                             |
+|      23 | [Analyse Nmap et Accès Telnet](https://labex.io/fr/courses/project-nmap-port-scanning-and-telnet-access)                                             | Débutant      | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-nmap-port-scanning-and-telnet-access)           |
+|      24 | [Énumération FTP et Accès Anonyme](https://labex.io/fr/courses/project-ftp-enumeration-and-anonymous-access)                                         | Débutant      | [🚀 Commencer le Lab](https://labex.io/fr/courses/project-ftp-enumeration-and-anonymous-access)           |
 
 ## Plus
 
