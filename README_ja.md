@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
 </div>
 
-Linux は強力なオープンソースのオペレーティングシステムです。このスキルツリーは、Linux 管理を習得するための包括的な学習パスを提供します。IT 初心者に最適で、コマンドラインインターフェース、システム管理、シェルスクリプトを理解するための明確なロードマップを提供します。実践的な非ビデオコースとインタラクティブなシェルプレイグラウンドでの実習を通じて、Linux システムの管理やタスクの自動化に関する実践的な経験を得ることができます。
+初心者向けに設計された、この包括的な学習パスで Linux を習得しましょう。これらの実践的な Linux コースは、コマンドラインインターフェースからシステム管理、シェルスクリプトまで、Linux 管理を習得するための明確なロードマップを提供します。インタラクティブなシェルプレイグラウンドでの実践的な非ビデオ演習を通じて、Linux システムの管理とタスクの自動化に焦点を当て、実世界の経験を積むことができます。
 
 ## 演習
 
@@ -36,6 +36,8 @@ Linux は強力なオープンソースのオペレーティングシステム�
 |             20 | [カスタムのゴミ箱機能付きコマンドを実装する](https://labex.io/ja/courses/project-avoid-accidental-deletion)                     | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-avoid-accidental-deletion)                      |
 |             21 | [ネットワークデータパケット統計](https://labex.io/ja/courses/project-network-data-packet-statistics)                            | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-network-data-packet-statistics)                 |
 |             22 | [ランダムパスワード生成器の開発](https://labex.io/ja/courses/project-password-generator)                                        | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-password-generator)                             |
+|             23 | [Nmap スキャンと Telnet アクセス](https://labex.io/ja/courses/project-nmap-port-scanning-and-telnet-access)                     | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-nmap-port-scanning-and-telnet-access)           |
+|             24 | [FTP 列挙と匿名アクセス](https://labex.io/ja/courses/project-ftp-enumeration-and-anonymous-access)                              | 初級     | [🚀 ラボを開始](https://labex.io/ja/courses/project-ftp-enumeration-and-anonymous-access)           |
 
 ## その他
 
