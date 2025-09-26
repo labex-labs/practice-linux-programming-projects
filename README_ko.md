@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
 </div>
 
-Linux 는 강력한 오픈 소스 운영 체제입니다. 이 Skill Tree 는 Linux 관리를 마스터하기 위한 포괄적인 학습 경로를 제공합니다. IT 초보자에게 이상적이며, 명령줄 인터페이스, 시스템 관리 및 쉘 스크립팅을 이해하기 위한 명확한 로드맵을 제공합니다. 대화형 쉘 플레이그라운드에서 실습 중심의 비디오가 아닌 코스와 실용적인 연습을 통해 Linux 시스템 관리 및 작업 자동화에 대한 실제 경험을 얻을 수 있습니다.
+초보자를 위해 설계된 이 포괄적인 학습 경로를 통해 Linux 를 배우세요. 이 실용적인 Linux 강좌는 명령줄 인터페이스부터 시스템 관리 및 셸 스크립팅에 이르기까지 Linux 관리를 마스터하기 위한 명확한 로드맵을 제공합니다. 대화형 셸 플레이그라운드에서 실습 위주의 비디오 없는 연습을 통해 실제 경험을 쌓고, Linux 시스템 관리 및 작업 자동화에 중점을 둡니다.
 
 ## 연습
 
@@ -36,6 +36,8 @@ Linux 는 강력한 오픈 소스 운영 체제입니다. 이 Skill Tree 는 Lin
 |       20 | [사용자 정의 휴지통 기능 rm 명령어 구현](https://labex.io/ko/courses/project-avoid-accidental-deletion)                     | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-avoid-accidental-deletion)                      |
 |       21 | [네트워크 데이터 패킷 통계](https://labex.io/ko/courses/project-network-data-packet-statistics)                             | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-network-data-packet-statistics)                 |
 |       22 | [무작위 비밀번호 생성기 개발](https://labex.io/ko/courses/project-password-generator)                                       | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-password-generator)                             |
+|       23 | [Nmap 스캔 및 텔넷 액세스](https://labex.io/ko/courses/project-nmap-port-scanning-and-telnet-access)                        | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-nmap-port-scanning-and-telnet-access)           |
+|       24 | [FTP 열거 및 익명 액세스](https://labex.io/ko/courses/project-ftp-enumeration-and-anonymous-access)                         | 초급     | [🚀 실습 시작](https://labex.io/ko/courses/project-ftp-enumeration-and-anonymous-access)           |
 
 ## 더 보기
 
