@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/k5LXo5b82pJm.png">
 </div>
 
-Linux is a powerful, open - source operating system. This Skill Tree provides a comprehensive learning path for mastering Linux administration. Ideal for IT beginners, it offers a clear roadmap to understand command - line interfaces, system administration, and shell scripting. Through hands - on, non - video courses and practical exercises in an interactive shell playground, you'll gain real - world experience in managing Linux systems and automating tasks.
+Learn Linux with this comprehensive learning path designed for beginners. These practical Linux courses provide a clear roadmap for mastering Linux administration, from the command-line interface to system administration and shell scripting. Gain real-world experience through hands-on, non-video exercises in an interactive shell playground, focusing on managing Linux systems and automating tasks.
 
 ## Exercises
 
@@ -36,6 +36,8 @@ Linux is a powerful, open - source operating system. This Skill Tree provides a 
 |      20 | [Implement Custom Trash-Enabled Command](https://labex.io/courses/project-avoid-accidental-deletion)                            | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-avoid-accidental-deletion)                      |
 |      21 | [Network Data Packet Statistics](https://labex.io/courses/project-network-data-packet-statistics)                               | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-network-data-packet-statistics)                 |
 |      22 | [Random Password Generator Development](https://labex.io/courses/project-password-generator)                                    | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-password-generator)                             |
+|      23 | [Nmap Scanning and Telnet Access](https://labex.io/courses/project-nmap-port-scanning-and-telnet-access)                        | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-nmap-port-scanning-and-telnet-access)           |
+|      24 | [FTP Enumeration and Anonymous Access](https://labex.io/courses/project-ftp-enumeration-and-anonymous-access)                   | Beginner     | [🚀 Start Lab](https://labex.io/courses/project-ftp-enumeration-and-anonymous-access)           |
 
 ## More
 
