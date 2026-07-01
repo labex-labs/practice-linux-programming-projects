@@ -1,324 +1,127 @@
-# Практика Проектов Программирования Linux
+# Linux Practice Projects
 
-## Языки
+**Языки:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-<div align="center">
-<img width="128px" src="https://file.labex.io/upload/u/1991/GXJSo2W4OcyY.png">
-</div>
+<p align="center">
+  <a href="https://labex.io/ru/learn/linux">
+    <img width="128" src="https://file.labex.io/upload/u/1991/GXJSo2W4OcyY.png" alt="Linux">
+  </a>
+</p>
 
 Практические онлайн-курсы Linux для начинающих: от командной строки до администрирования и сценариев оболочки, с интерактивной песочницей и упражнениями без видео, упор на эксплуатацию и автоматизацию.
 
+[Посмотреть проекты на LabEx](https://labex.io/ru/learn/linux)
+
 ## Проекты
 
-Изучите 24 проектов Linux для начинающих, которые превращают ключевые концепции языка в небольшие завершенные программы. Каждый проект открывается в LabEx с готовой средой, чтобы вы могли сосредоточиться на создании.
+Изучите 100 проектов по Linux для начинающих и примените ключевые концепции в небольших завершенных программах. Каждый проект открывается в LabEx с готовой средой, чтобы вы могли сосредоточиться на практике.
 
-<table>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-build-a-linux-system-monitor-using-bash"><img src="https://course-cover.labex.io/project-build-a-linux-system-monitor-using-bash.png?lang=ru" alt="Создание монитора системы Linux с использованием Bash" width="160"></a>
-    </td>
-    <td>
-      <h3>01. <a href="https://labex.io/ru/courses/project-build-a-linux-system-monitor-using-bash">Создание монитора системы Linux с использованием Bash</a></h3>
-      <p>В этом проекте вы научитесь создавать монитор системы Linux с помощью сценария оболочки. Монитор системы будет непрерывно отслеживать использование ЦП, памяти и диска в вашей системе Linux и отображать проценты использования. Если какое-либо из пороговых значений для использования ЦП, памяти или диска будет превышено, будет отправлено предупреждение. Вы можете настроить пороговые значения в соответствии с вашими требованиями и добавить свою собственную логику для отправки предупреждений.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-build-a-linux-system-monitor-using-bash">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-build-a-task-scheduler-using-bash"><img src="https://course-cover.labex.io/project-build-a-task-scheduler-using-bash.png?lang=ru" alt="Создание планировщика задач с использованием Bash" width="160"></a>
-    </td>
-    <td>
-      <h3>02. <a href="https://labex.io/ru/courses/project-build-a-task-scheduler-using-bash">Создание планировщика задач с использованием Bash</a></h3>
-      <p>В этом проекте вы научитесь создавать планировщик задач с использованием скрипта Bash. Планировщик задач позволяет запланировать и управлять задачами, которые должны выполняться с определенной периодичностью, например, каждый час, каждый день или каждую неделю. Скрипт предоставляет возможность просматривать список запланированных задач, добавлять новые задачи и удалять существующие.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-build-a-task-scheduler-using-bash">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-installing-and-configuring-a-mail-server"><img src="https://course-cover.labex.io/project-installing-and-configuring-a-mail-server.png?lang=ru" alt="Установка и настройка почтового сервера" width="160"></a>
-    </td>
-    <td>
-      <h3>03. <a href="https://labex.io/ru/courses/project-installing-and-configuring-a-mail-server">Установка и настройка почтового сервера</a></h3>
-      <p>В этом практическом занятии участники настроят и запустят почтовый сервер Postfix на Linux, изучив основы управления и эксплуатации почтового сервера.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-installing-and-configuring-a-mail-server">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-certificate-configuration"><img src="https://course-cover.labex.io/project-certificate-configuration.png?lang=ru" alt="Настройка SSH-сертификатов для безопасного входа" width="160"></a>
-    </td>
-    <td>
-      <h3>04. <a href="https://labex.io/ru/courses/project-certificate-configuration">Настройка SSH-сертификатов для безопасного входа</a></h3>
-      <p>В этом проекте вы узнаете, как настроить SSH-сертификат для пользователя labex, чтобы пользователь labex не вводил пароль при SSH-подключении к локальной экспериментальной среде.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-certificate-configuration">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-creating-a-typing-game-using-bash"><img src="https://course-cover.labex.io/project-creating-a-typing-game-using-bash.png?lang=ru" alt="Создание игры на скоропечатание с использованием Bash" width="160"></a>
-    </td>
-    <td>
-      <h3>05. <a href="https://labex.io/ru/courses/project-creating-a-typing-game-using-bash">Создание игры на скоропечатание с использованием Bash</a></h3>
-      <p>В этом проекте вы создадите простую игру на скоропечатание с помощью скрипта оболочки, который отображает случайные символы на экране и предлагает вам ввести их до того, как они исчезнут. Также есть возможность практиковать печать цифр, букв, их сочетаний или собственных слов.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-creating-a-typing-game-using-bash">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-get-system-information"><img src="https://course-cover.labex.io/project-get-system-information.png?lang=ru" alt="Получение информации о сервере Linux" width="160"></a>
-    </td>
-    <td>
-      <h3>06. <a href="https://labex.io/ru/courses/project-get-system-information">Получение информации о сервере Linux</a></h3>
-      <p>В этом проекте вы научитесь получать и отображать системную информацию на сервере Linux. Скрипт getinfo.sh, который вы создадите, можно использовать для быстрого сбора важных сведений о аппаратном обеспечении, программном обеспечении и сетевой конфигурации сервера.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-get-system-information">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-restore-access-to-website"><img src="https://course-cover.labex.io/project-restore-access-to-website.png?lang=ru" alt="Восстановление доступа к веб-сайту" width="160"></a>
-    </td>
-    <td>
-      <h3>07. <a href="https://labex.io/ru/courses/project-restore-access-to-website">Восстановление доступа к веб-сайту</a></h3>
-      <p>В этом проекте вы научитесь восстанавливать доступ к веб-сайту, который был случайно поврежден. Веб-сайт использует сервисы Nginx, которые в настоящее время не могут быть запущены. Ваша задача - запустить сервис Nginx снова, чтобы можно было получить доступ к веб-сайту.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-restore-access-to-website">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-searching-for-specific-files"><img src="https://course-cover.labex.io/project-searching-for-specific-files.png?lang=ru" alt="Поиск конкретных файлов" width="160"></a>
-    </td>
-    <td>
-      <h3>08. <a href="https://labex.io/ru/courses/project-searching-for-specific-files">Поиск конкретных файлов</a></h3>
-      <p>В этом проекте вы научитесь искать файлы в каталоге /etc, содержащие строку &#x27;labex&#x27; в своем содержимом, и организовывать вывод в определенном формате.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-searching-for-specific-files">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-log-backup"><img src="https://course-cover.labex.io/project-log-backup.png?lang=ru" alt="Автоматическое ежедневное резервное копирование системных журналов" width="160"></a>
-    </td>
-    <td>
-      <h3>09. <a href="https://labex.io/ru/courses/project-log-backup">Автоматическое ежедневное резервное копирование системных журналов</a></h3>
-      <p>В этом проекте вы узнаете, как настроить задачу cron для автоматического резервного копирования ежедневных файлов журналов системы. Как системный администратор, вы часто можете нуждаться в выполнении резервного копирования журналов, чтобы обеспечить доступность и восстановимость важных системных данных.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-log-backup">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-chess-board-in-terminal"><img src="https://course-cover.labex.io/project-chess-board-in-terminal.png?lang=ru" alt="Шахматная доска в терминале" width="160"></a>
-    </td>
-    <td>
-      <h3>10. <a href="https://labex.io/ru/courses/project-chess-board-in-terminal">Шахматная доска в терминале</a></h3>
-      <p>В этом проекте вы научитесь создавать шахматную доску с использованием скриптинга на Bash. Завершив этот проект, вы получите опыт в использовании вложенных циклов, цветной печати и написания скриптов для оболочки.</p>
-      <p><strong>Уровень:</strong> Средний · <a href="https://labex.io/ru/courses/project-chess-board-in-terminal">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-copy-specified-files"><img src="https://course-cover.labex.io/project-copy-specified-files.png?lang=ru" alt="Копирование больших файлов с сохранением структуры каталогов" width="160"></a>
-    </td>
-    <td>
-      <h3>11. <a href="https://labex.io/ru/courses/project-copy-specified-files">Копирование больших файлов с сохранением структуры каталогов</a></h3>
-      <p>В этом проекте вы научитесь копировать файлы размером более 10 КБ из каталога /etc в каталог /tmp/etc, сохраняя структуру каталогов. Это полезный навык для управления и организации файлов в системе Linux.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-copy-specified-files">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-directory-size"><img src="https://course-cover.labex.io/project-directory-size.png?lang=ru" alt="Настройка вывода списка файлов в Linux" width="160"></a>
-    </td>
-    <td>
-      <h3>12. <a href="https://labex.io/ru/courses/project-directory-size">Настройка вывода списка файлов в Linux</a></h3>
-      <p>В этом проекте вы научитесь создавать настраиваемую команду ls, которая отображает размеры каталогов в удобочитаемом формате. Этот проект поможет вам понять, как получать и форматировать информацию о файлах в среде Linux с использованием скриптинга на Zsh.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-directory-size">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-new-colleague-system-account-setup"><img src="https://course-cover.labex.io/project-new-colleague-system-account-setup.png?lang=ru" alt="Настройка системной учетной записи для нового коллеги" width="160"></a>
-    </td>
-    <td>
-      <h3>13. <a href="https://labex.io/ru/courses/project-new-colleague-system-account-setup">Настройка системной учетной записи для нового коллеги</a></h3>
-      <p>В этом проекте вы узнаете, как настроить новую учетную запись пользователя для нового коллеги по имени Джейн на тестовом сервере LabEx. Вы создадите учетную запись пользователя, зададите домашнюю директорию, измените стандартную оболочку на zsh и предоставите новому пользователю привилегии sudo.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-new-colleague-system-account-setup">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-log-analysis"><img src="https://course-cover.labex.io/project-log-analysis.png?lang=ru" alt="Анализ и оптимизация журналов Nginx" width="160"></a>
-    </td>
-    <td>
-      <h3>14. <a href="https://labex.io/ru/courses/project-log-analysis">Анализ и оптимизация журналов Nginx</a></h3>
-      <p>В этом проекте вы научитесь выполнять анализ журналов доступа сервера Nginx. Вы получите ценную информацию из журналов, такую как топ-IP-адресов по количеству доступов, IP-адресов, которые обращались к серверу не менее 10 раз, наиболее запрашиваемых запросов и адресов запросов со статусом 404.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-log-analysis">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-bulk-creation-and-deletion-of-users-and-groups"><img src="https://course-cover.labex.io/project-bulk-creation-and-deletion-of-users-and-groups.png?lang=ru" alt="Пакетное создание и удаление пользователей и групп" width="160"></a>
-    </td>
-    <td>
-      <h3>15. <a href="https://labex.io/ru/courses/project-bulk-creation-and-deletion-of-users-and-groups">Пакетное создание и удаление пользователей и групп</a></h3>
-      <p>В этом проекте вы научитесь создавать и управлять учетными записями пользователей для учителей и учеников в среде серверного класса. Вы будете использовать bash-скрипт с именем userctr.sh для автоматизации процесса добавления и удаления учетных записей пользователей, что может быть утомительной задачей при ручном выполнении.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-bulk-creation-and-deletion-of-users-and-groups">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-collect-files-from-specified-time"><img src="https://course-cover.labex.io/project-collect-files-from-specified-time.png?lang=ru" alt="Сбор файлов с указанного времени" width="160"></a>
-    </td>
-    <td>
-      <h3>16. <a href="https://labex.io/ru/courses/project-collect-files-from-specified-time">Сбор файлов с указанного времени</a></h3>
-      <p>В этом проекте вы узнаете, как скопировать файлы из каталога /etc, у которых последняя дата изменения была в 2022 году, в каталог /tmp/etc, сохраняя структуру каталогов.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-collect-files-from-specified-time">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-extracting-information-from-text"><img src="https://course-cover.labex.io/project-extracting-information-from-text.png?lang=ru" alt="Извлечение информации из текста" width="160"></a>
-    </td>
-    <td>
-      <h3>17. <a href="https://labex.io/ru/courses/project-extracting-information-from-text">Извлечение информации из текста</a></h3>
-      <p>В этом проекте вы научитесь извлекать URL-адреса изображений из файлов Markdown с помощью скрипта Bash. Это распространенная задача при работе с технической документацией, так как она позволяет быстро определить и получить изображения, используемые в документе.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-extracting-information-from-text">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-extracting-link-information-from-text"><img src="https://course-cover.labex.io/project-extracting-link-information-from-text.png?lang=ru" alt="Извлечение информации о ссылках из текста" width="160"></a>
-    </td>
-    <td>
-      <h3>18. <a href="https://labex.io/ru/courses/project-extracting-link-information-from-text">Извлечение информации о ссылках из текста</a></h3>
-      <p>В этом проекте вы научитесь извлекать информацию о ссылках из Markdown-документов с помощью скрипта на языке Bash. Это распространенная задача в разработке программного обеспечения, когда разработчикам нужно обрабатывать и извлекать определенную информацию из текстовых документов.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-extracting-link-information-from-text">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-get-program-that-satisfies-the-condition"><img src="https://course-cover.labex.io/project-get-program-that-satisfies-the-condition.png?lang=ru" alt="Получить программу, удовлетворяющую условию" width="160"></a>
-    </td>
-    <td>
-      <h3>19. <a href="https://labex.io/ru/courses/project-get-program-that-satisfies-the-condition">Получить программу, удовлетворяющую условию</a></h3>
-      <p>В этом проекте вы узнаете, как создать скрипт, который может проверить, запущена ли программа на указанном порту, и вывести полный путь к программе или &#x27;OK&#x27;, если на порту не запущена никакая программа.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-get-program-that-satisfies-the-condition">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-avoid-accidental-deletion"><img src="https://course-cover.labex.io/project-avoid-accidental-deletion.png?lang=ru" alt="Реализация пользовательской команды с поддержкой корзины" width="160"></a>
-    </td>
-    <td>
-      <h3>20. <a href="https://labex.io/ru/courses/project-avoid-accidental-deletion">Реализация пользовательской команды с поддержкой корзины</a></h3>
-      <p>В этом проекте вы узнаете, как создать пользовательскую команду rm, которая перемещает удаленные файлы в каталог корзины вместо их окончательного удаления. Это полезная функция для вашего Linux - сервера, которая позволяет избежать случайного удаления важных файлов.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-avoid-accidental-deletion">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-network-data-packet-statistics"><img src="https://course-cover.labex.io/project-network-data-packet-statistics.png?lang=ru" alt="Статистика сетевых пакетов данных" width="160"></a>
-    </td>
-    <td>
-      <h3>21. <a href="https://labex.io/ru/courses/project-network-data-packet-statistics">Статистика сетевых пакетов данных</a></h3>
-      <p>В этом проекте вы узнаете, как создать скрипт Zsh, который отслеживает состояние сетевого взаимодействия определенного порта. Скрипт подсчитывает количество переданных и полученных пакетов данных на указанном порте в течение 3-ти секундного интервала времени.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-network-data-packet-statistics">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-password-generator"><img src="https://course-cover.labex.io/project-password-generator.png?lang=ru" alt="Разработка генератора случайных паролей" width="160"></a>
-    </td>
-    <td>
-      <h3>22. <a href="https://labex.io/ru/courses/project-password-generator">Разработка генератора случайных паролей</a></h3>
-      <p>В этом проекте вы научитесь создавать скрипт генератора случайных паролей, который соответствует определенным требованиям. Генератор паролей создаст пароль длиной 12 символов, который включает как минимум одну цифру, одну заглавную букву, одну строчную букву и один специальный символ из набора &gt;&lt;+-{}:.&amp;;.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-password-generator">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-nmap-port-scanning-and-telnet-access"><img src="https://course-cover.labex.io/project-nmap-port-scanning-and-telnet-access.png?lang=ru" alt="Сканирование Nmap и доступ по Telnet" width="160"></a>
-    </td>
-    <td>
-      <h3>23. <a href="https://labex.io/ru/courses/project-nmap-port-scanning-and-telnet-access">Сканирование Nmap и доступ по Telnet</a></h3>
-      <p>В этом проекте вы изучите основы сетевой разведки и базового тестирования на проникновение. Вы будете использовать nmap для сканирования открытых портов на целевой системе, выявления уязвимых служб, таких как Telnet, и получения доступа для извлечения флага. Этот практический проект охватывает основные навыки кибербезопасности, включая сканирование портов, обнаружение служб и методы удаленного доступа.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-nmap-port-scanning-and-telnet-access">Начать проект</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/ru/courses/project-ftp-enumeration-and-anonymous-access"><img src="https://course-cover.labex.io/project-ftp-enumeration-and-anonymous-access.png?lang=ru" alt="Перечисление FTP и анонимный доступ" width="160"></a>
-    </td>
-    <td>
-      <h3>24. <a href="https://labex.io/ru/courses/project-ftp-enumeration-and-anonymous-access">Перечисление FTP и анонимный доступ</a></h3>
-      <p>В этом проекте вы изучите основы сетевого перечисления и эксплуатации протокола передачи файлов (FTP). Вы будете использовать nmap для сканирования открытых портов на целевой системе, выявления неправильно настроенных служб FTP, получения анонимного доступа и извлечения флага. Этот практический проект охватывает основные навыки кибербезопасности, включая сканирование портов, обнаружение служб и методы эксплуатации FTP.</p>
-      <p><strong>Уровень:</strong> Начинающий · <a href="https://labex.io/ru/courses/project-ftp-enumeration-and-anonymous-access">Начать проект</a></p>
-    </td>
-  </tr>
-</table>
+|   Индекс | Проект                                                                                                                                                                     | Сложность   | Практика                                                                                            |
+|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------|
+|      001 | [Быстрый старт с Linux](https://labex.io/ru/courses/quick-start-with-linux)                                                                                                | Начинающий  | [Начать проект](https://labex.io/ru/courses/quick-start-with-linux)                                 |
+|      002 | [Практика работы с командами Linux](https://labex.io/ru/courses/linux-basic-commands-practice-online)                                                                      | Начинающий  | [Начать проект](https://labex.io/ru/courses/linux-basic-commands-practice-online)                   |
+|      003 | [Linux для новичков](https://labex.io/ru/courses/linux-for-noobs)                                                                                                          | Начинающий  | [Начать проект](https://labex.io/ru/courses/linux-for-noobs)                                        |
+|      004 | [Kali Linux для начинающих](https://labex.io/ru/courses/kali-linux-for-beginners)                                                                                          | Начинающий  | [Начать проект](https://labex.io/ru/courses/kali-linux-for-beginners)                               |
+|      005 | [Станьте младшим системным администратором](https://labex.io/ru/courses/become-a-junior-system-administrator)                                                              | Начинающий  | [Начать проект](https://labex.io/ru/courses/become-a-junior-system-administrator)                   |
+|      006 | [Основы работы с командной оболочкой (Shell)](https://labex.io/ru/courses/shell-for-beginners)                                                                             | Начинающий  | [Начать проект](https://labex.io/ru/courses/shell-for-beginners)                                    |
+|      007 | [Лабораторные работы по системному администрированию Red Hat (RH124)](https://labex.io/ru/courses/red-hat-system-administration-rh124-labs)                                | Начинающий  | [Начать проект](https://labex.io/ru/courses/red-hat-system-administration-rh124-labs)               |
+|      008 | [Nmap для начинающих](https://labex.io/ru/courses/nmap-for-beginners)                                                                                                      | Начинающий  | [Начать проект](https://labex.io/ru/courses/nmap-for-beginners)                                     |
+|      009 | [Практические Лаборатории для Подготовки к Сертификации CompTIA Linux+](https://labex.io/ru/courses/comptia-linux-plus-training-labs)                                      | Начинающий  | [Начать проект](https://labex.io/ru/courses/comptia-linux-plus-training-labs)                       |
+|      010 | [Задачи по практике работы с Linux](https://labex.io/ru/courses/linux-practice-challenges)                                                                                 | Начинающий  | [Начать проект](https://labex.io/ru/courses/linux-practice-challenges)                              |
+|      011 | [Автоматизация Red Hat Enterprise Linux с помощью Ansible (RH294) Лабораторные работы](https://labex.io/ru/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) | Начинающий  | [Начать проект](https://labex.io/ru/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) |
+|      012 | [Создание монитора системы Linux с использованием Bash](https://labex.io/ru/courses/project-build-a-linux-system-monitor-using-bash)                                       | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-build-a-linux-system-monitor-using-bash)        |
+|      013 | [Основы работы в терминале Linux](https://labex.io/ru/courses/linux-terminal-basics)                                                                                       | Начинающий  | [Начать проект](https://labex.io/ru/courses/linux-terminal-basics)                                  |
+|      014 | [Упражнения для подготовки к экзамену на сертификацию RHCSA](https://labex.io/ru/courses/rhcsa-certification-exam-practice-exercises)                                      | Начинающий  | [Начать проект](https://labex.io/ru/courses/rhcsa-certification-exam-practice-exercises)            |
+|      015 | [Ansible для начинающих](https://labex.io/ru/courses/ansible-for-beginners)                                                                                                | Начинающий  | [Начать проект](https://labex.io/ru/courses/ansible-for-beginners)                                  |
+|      016 | [Основы сетевого взаимодействия в Linux](https://labex.io/ru/courses/linux-networking-fundamentals)                                                                        | Начинающий  | [Начать проект](https://labex.io/ru/courses/linux-networking-fundamentals)                          |
+|      017 | [Навигация по файловой системе и файловые операции](https://labex.io/ru/courses/file-system-navigation-and-file-operations)                                                | Начинающий  | [Начать проект](https://labex.io/ru/courses/file-system-navigation-and-file-operations)             |
+|      018 | [Лабораторные работы по администрированию систем Red Hat (RH134)](https://labex.io/ru/courses/red-hat-system-administration-rh134-labs)                                    | Начинающий  | [Начать проект](https://labex.io/ru/courses/red-hat-system-administration-rh134-labs)               |
+|      019 | [Просмотр, поиск и редактирование файлов](https://labex.io/ru/courses/viewing-searching-and-editing-files)                                                                 | Начинающий  | [Начать проект](https://labex.io/ru/courses/viewing-searching-and-editing-files)                    |
+|      020 | [100 дней Linux-челленджей](https://labex.io/ru/courses/100-days-of-linux-challenges)                                                                                      | Начинающий  | [Начать проект](https://labex.io/ru/courses/100-days-of-linux-challenges)                           |
+|      021 | [Перенаправление и конвейеры в оболочке (Shell Redirection and Pipelines)](https://labex.io/ru/courses/shell-redirection-and-pipelines)                                    | Начинающий  | [Начать проект](https://labex.io/ru/courses/shell-redirection-and-pipelines)                        |
+|      022 | [Окружение Оболочки и Переменные](https://labex.io/ru/courses/shell-environment-and-variables)                                                                             | Начинающий  | [Начать проект](https://labex.io/ru/courses/shell-environment-and-variables)                        |
+|      023 | [Пользователи, группы и разрешения](https://labex.io/ru/courses/users-groups-and-permissions)                                                                              | Начинающий  | [Начать проект](https://labex.io/ru/courses/users-groups-and-permissions)                           |
+|      024 | [Процессы и управление заданиями](https://labex.io/ru/courses/processes-and-job-control)                                                                                   | Начинающий  | [Начать проект](https://labex.io/ru/courses/processes-and-job-control)                              |
+|      025 | [Мониторинг системной информации и ресурсов](https://labex.io/ru/courses/system-information-and-resource-monitoring)                                                       | Начинающий  | [Начать проект](https://labex.io/ru/courses/system-information-and-resource-monitoring)             |
+|      026 | [Восстановление и инициализация системы](https://labex.io/ru/courses/project-system-rescue-and-initialization)                                                             | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-system-rescue-and-initialization)               |
+|      027 | [Создание планировщика задач с использованием Bash](https://labex.io/ru/courses/project-build-a-task-scheduler-using-bash)                                                 | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-build-a-task-scheduler-using-bash)              |
+|      028 | [Практическое сканирование сетей с использованием Nmap в Linux](https://labex.io/ru/courses/hands-on-network-scanning-with-nmap-on-linux)                                  | Начинающий  | [Начать проект](https://labex.io/ru/courses/hands-on-network-scanning-with-nmap-on-linux)           |
+|      029 | [Удаленный доступ и безопасная передача файлов](https://labex.io/ru/courses/remote-access-and-secure-file-transfer)                                                        | Начинающий  | [Начать проект](https://labex.io/ru/courses/remote-access-and-secure-file-transfer)                 |
+|      030 | [Установка и настройка почтового сервера](https://labex.io/ru/courses/project-installing-and-configuring-a-mail-server)                                                    | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-installing-and-configuring-a-mail-server)       |
+|      031 | [Управление Программными Пакетами](https://labex.io/ru/courses/software-package-management)                                                                                | Начинающий  | [Начать проект](https://labex.io/ru/courses/software-package-management)                            |
+|      032 | [Настройка SSH-сертификатов для безопасного входа](https://labex.io/ru/courses/project-certificate-configuration)                                                          | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-certificate-configuration)                      |
+|      033 | [Безопасность Linux для DevSecOps](https://labex.io/ru/courses/linux-security-for-devsecops)                                                                               | Начинающий  | [Начать проект](https://labex.io/ru/courses/linux-security-for-devsecops)                           |
+|      034 | [Основы Shell-скриптинга](https://labex.io/ru/courses/shell-scripting-fundamentals)                                                                                        | Средний     | [Начать проект](https://labex.io/ru/courses/shell-scripting-fundamentals)                           |
+|      035 | [Развертывание и аварийное восстановление веб-сервера](https://labex.io/ru/courses/project-web-server-deployment-and-disaster-recovery)                                    | Средний     | [Начать проект](https://labex.io/ru/courses/project-web-server-deployment-and-disaster-recovery)    |
+|      036 | [Дисковые файловые системы и управление хранилищем](https://labex.io/ru/courses/disk-filesystems-and-storage-management)                                                   | Начинающий  | [Начать проект](https://labex.io/ru/courses/disk-filesystems-and-storage-management)                |
+|      037 | [Сканирование Nmap и доступ по Telnet](https://labex.io/ru/courses/project-nmap-port-scanning-and-telnet-access)                                                           | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-nmap-port-scanning-and-telnet-access)           |
+|      038 | [Создание игры на скоропечатание с использованием Bash](https://labex.io/ru/courses/project-creating-a-typing-game-using-bash)                                             | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-creating-a-typing-game-using-bash)              |
+|      039 | [Архивирование и резервное копирование](https://labex.io/ru/courses/archiving-and-backup)                                                                                  | Начинающий  | [Начать проект](https://labex.io/ru/courses/archiving-and-backup)                                   |
+|      040 | [Продвинутые методы Shell-скриптинга](https://labex.io/ru/courses/advanced-shell-scripting-techniques)                                                                     | Средний     | [Начать проект](https://labex.io/ru/courses/advanced-shell-scripting-techniques)                    |
+|      041 | [Практическое применение эксплойтов на Kali Server](https://labex.io/ru/courses/kali-server-exploitation-in-action)                                                        | Начинающий  | [Начать проект](https://labex.io/ru/courses/kali-server-exploitation-in-action)                     |
+|      042 | [Управление службами с помощью systemd](https://labex.io/ru/courses/service-management-with-systemd)                                                                       | Начинающий  | [Начать проект](https://labex.io/ru/courses/service-management-with-systemd)                        |
+|      043 | [Веб-сервер Nginx](https://labex.io/ru/courses/nginx-web-server)                                                                                                           | Средний     | [Начать проект](https://labex.io/ru/courses/nginx-web-server)                                       |
+|      044 | [Пакетное создание и удаление пользователей и групп](https://labex.io/ru/courses/project-bulk-creation-and-deletion-of-users-and-groups)                                   | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-bulk-creation-and-deletion-of-users-and-groups) |
+|      045 | [Поиск конкретных файлов](https://labex.io/ru/courses/project-searching-for-specific-files)                                                                                | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-searching-for-specific-files)                   |
+|      046 | [Перечисление FTP и анонимный доступ](https://labex.io/ru/courses/project-ftp-enumeration-and-anonymous-access)                                                            | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-ftp-enumeration-and-anonymous-access)           |
+|      047 | [Получение информации о сервере Linux](https://labex.io/ru/courses/project-get-system-information)                                                                         | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-get-system-information)                         |
+|      048 | [Техники повышения привилегий на Linux](https://labex.io/ru/courses/privilege-escalation-techniques-on-linux)                                                              | Начинающий  | [Начать проект](https://labex.io/ru/courses/privilege-escalation-techniques-on-linux)               |
+|      049 | [Обработка текста с помощью AWK и sed](https://labex.io/ru/courses/text-processing-with-awk-and-sed)                                                                       | Средний     | [Начать проект](https://labex.io/ru/courses/text-processing-with-awk-and-sed)                       |
+|      050 | [Управление журналами и обработка текста](https://labex.io/ru/courses/log-management-and-text-processing)                                                                  | Начинающий  | [Начать проект](https://labex.io/ru/courses/log-management-and-text-processing)                     |
+|      051 | [Восстановление доступа к веб-сайту](https://labex.io/ru/courses/project-restore-access-to-website)                                                                        | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-restore-access-to-website)                      |
+|      052 | [Тестирование на проникновение для начинающих](https://labex.io/ru/courses/penetration-testing-for-beginners)                                                              | Начинающий  | [Начать проект](https://labex.io/ru/courses/penetration-testing-for-beginners)                      |
+|      053 | [Плановые задания и рутинное обслуживание](https://labex.io/ru/courses/scheduled-tasks-and-routine-maintenance)                                                            | Средний     | [Начать проект](https://labex.io/ru/courses/scheduled-tasks-and-routine-maintenance)                |
+|      054 | [Контроль версий с помощью Git](https://labex.io/ru/courses/version-control-with-git)                                                                                      | Средний     | [Начать проект](https://labex.io/ru/courses/version-control-with-git)                               |
+|      055 | [Автоматизация Ansible](https://labex.io/ru/courses/ansible-automation)                                                                                                    | Средний     | [Начать проект](https://labex.io/ru/courses/ansible-automation)                                     |
+|      056 | [Администрирование DNS-службы](https://labex.io/ru/courses/dns-service-administration)                                                                                     | Средний     | [Начать проект](https://labex.io/ru/courses/dns-service-administration)                             |
+|      057 | [Брутфорс Telnet и слабые учетные данные](https://labex.io/ru/courses/project-telnet-brute-force-and-weak-credentials)                                                     | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-telnet-brute-force-and-weak-credentials)        |
+|      058 | [Разработка набора инструментов для автоматизированных операций (Automated Ops Toolkit)](https://labex.io/ru/courses/project-automated-ops-toolkit-development)            | Средний     | [Начать проект](https://labex.io/ru/courses/project-automated-ops-toolkit-development)              |
+|      059 | [Основы базы данных MySQL](https://labex.io/ru/courses/mysql-database-basics)                                                                                              | Средний     | [Начать проект](https://labex.io/ru/courses/mysql-database-basics)                                  |
+|      060 | [Веб-сервер Apache](https://labex.io/ru/courses/apache-web-server)                                                                                                         | Средний     | [Начать проект](https://labex.io/ru/courses/apache-web-server)                                      |
+|      061 | [Процесс загрузки и восстановление](https://labex.io/ru/courses/boot-process-and-recovery)                                                                                 | Средний     | [Начать проект](https://labex.io/ru/courses/boot-process-and-recovery)                              |
+|      062 | [GitHub Actions CI/CD](https://labex.io/ru/courses/github-actions-cicd)                                                                                                    | Средний     | [Начать проект](https://labex.io/ru/courses/github-actions-cicd)                                    |
+|      063 | [Базовая безопасность системы](https://labex.io/ru/courses/basic-system-security)                                                                                          | Средний     | [Начать проект](https://labex.io/ru/courses/basic-system-security)                                  |
+|      064 | [Разведка на основе открытых источников (OSINT) и пассивная разведка](https://labex.io/ru/courses/open-source-intelligence-osint-passive-recon)                            | Средний     | [Начать проект](https://labex.io/ru/courses/open-source-intelligence-osint-passive-recon)           |
+|      065 | [Автоматическое ежедневное резервное копирование системных журналов](https://labex.io/ru/courses/project-log-backup)                                                       | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-log-backup)                                     |
+|      066 | [Уязвимости инъекций](https://labex.io/ru/courses/injection-vulnerabilities)                                                                                               | Средний     | [Начать проект](https://labex.io/ru/courses/injection-vulnerabilities)                              |
+|      067 | [Подготовка к RHCSA (EX200)](https://labex.io/ru/courses/rhcsa-prep)                                                                                                       | Начинающий  | [Начать проект](https://labex.io/ru/courses/rhcsa-prep)                                             |
+|      068 | [Основы Docker-контейнеров](https://labex.io/ru/courses/docker-container-basics)                                                                                           | Средний     | [Начать проект](https://labex.io/ru/courses/docker-container-basics)                                |
+|      069 | [Шахматная доска в терминале](https://labex.io/ru/courses/project-chess-board-in-terminal)                                                                                 | Средний     | [Начать проект](https://labex.io/ru/courses/project-chess-board-in-terminal)                        |
+|      070 | [Мониторинг Prometheus](https://labex.io/ru/courses/prometheus-monitoring)                                                                                                 | Средний     | [Начать проект](https://labex.io/ru/courses/prometheus-monitoring)                                  |
+|      071 | [Terraform Infrastructure as Code](https://labex.io/ru/courses/terraform-infrastructure-as-code)                                                                           | Средний     | [Начать проект](https://labex.io/ru/courses/terraform-infrastructure-as-code)                       |
+|      072 | [Балансировка нагрузки HAProxy](https://labex.io/ru/courses/haproxy-load-balancing)                                                                                        | Средний     | [Начать проект](https://labex.io/ru/courses/haproxy-load-balancing)                                 |
+|      073 | [Анализ и оптимизация журналов Nginx](https://labex.io/ru/courses/project-log-analysis)                                                                                    | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-log-analysis)                                   |
+|      074 | [Python для операций](https://labex.io/ru/courses/python-for-operations)                                                                                                   | Средний     | [Начать проект](https://labex.io/ru/courses/python-for-operations)                                  |
+|      075 | [Настройка системной учетной записи для нового коллеги](https://labex.io/ru/courses/project-new-colleague-system-account-setup)                                            | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-new-colleague-system-account-setup)             |
+|      076 | [Управление пакетами RPM и DNF](https://labex.io/ru/courses/rpm-and-dnf-package-management)                                                                                | Средний     | [Начать проект](https://labex.io/ru/courses/rpm-and-dnf-package-management)                         |
+|      077 | [Извлечение информации из текста](https://labex.io/ru/courses/project-extracting-information-from-text)                                                                    | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-extracting-information-from-text)               |
+|      078 | [Разработка генератора случайных паролей](https://labex.io/ru/courses/project-password-generator)                                                                          | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-password-generator)                             |
+|      079 | [Перечисление SSH и доступ по ключу](https://labex.io/ru/courses/project-ssh-enumeration-and-key-based-access)                                                             | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-ssh-enumeration-and-key-based-access)           |
+|      080 | [Сбор файлов с указанного времени](https://labex.io/ru/courses/project-collect-files-from-specified-time)                                                                  | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-collect-files-from-specified-time)              |
+|      081 | [Быстрый старт с Hadoop](https://labex.io/ru/courses/quick-start-with-hadoop)                                                                                              | Начинающий  | [Начать проект](https://labex.io/ru/courses/quick-start-with-hadoop)                                |
+|      082 | [Копирование больших файлов с сохранением структуры каталогов](https://labex.io/ru/courses/project-copy-specified-files)                                                   | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-copy-specified-files)                           |
+|      083 | [Реализация пользовательской команды с поддержкой корзины](https://labex.io/ru/courses/project-avoid-accidental-deletion)                                                  | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-avoid-accidental-deletion)                      |
+|      084 | [Перечисление RDP и доступ по слабым паролям](https://labex.io/ru/courses/project-rdp-enumeration-and-weak-password-access)                                                | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-rdp-enumeration-and-weak-password-access)       |
+|      085 | [Извлечение информации о ссылках из текста](https://labex.io/ru/courses/project-extracting-link-information-from-text)                                                     | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-extracting-link-information-from-text)          |
+|      086 | [Статистика сетевых пакетов данных](https://labex.io/ru/courses/project-network-data-packet-statistics)                                                                    | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-network-data-packet-statistics)                 |
+|      087 | [Конфигурация Firewalld](https://labex.io/ru/courses/firewalld-configuration)                                                                                              | Средний     | [Начать проект](https://labex.io/ru/courses/firewalld-configuration)                                |
+|      088 | [Подготовка к LFCS](https://labex.io/ru/courses/lfcs-prep)                                                                                                                 | Начинающий  | [Начать проект](https://labex.io/ru/courses/lfcs-prep)                                              |
+|      089 | [Настройка вывода списка файлов в Linux](https://labex.io/ru/courses/project-directory-size)                                                                               | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-directory-size)                                 |
+|      090 | [Nmap: определение отпечатков и скриптовый движок](https://labex.io/ru/courses/nmap-fingerprinting-the-scripting-engine)                                                   | Средний     | [Начать проект](https://labex.io/ru/courses/nmap-fingerprinting-the-scripting-engine)               |
+|      091 | [Администрирование службы DHCP](https://labex.io/ru/courses/dhcp-service-administration)                                                                                   | Средний     | [Начать проект](https://labex.io/ru/courses/dhcp-service-administration)                            |
+|      092 | [Визуализация данных Grafana](https://labex.io/ru/courses/grafana-data-visualization)                                                                                      | Средний     | [Начать проект](https://labex.io/ru/courses/grafana-data-visualization)                             |
+|      093 | [Администрирование сетевых служб](https://labex.io/ru/courses/project-network-service-administration)                                                                      | Средний     | [Начать проект](https://labex.io/ru/courses/project-network-service-administration)                 |
+|      094 | [Nmap обнаружение хостов и сканирование портов](https://labex.io/ru/courses/mastering-nmap-host-discovery-port-scanning)                                                   | Средний     | [Начать проект](https://labex.io/ru/courses/mastering-nmap-host-discovery-port-scanning)            |
+|      095 | [Оценка и управление уязвимостями](https://labex.io/ru/courses/vulnerability-assessment-management)                                                                        | Средний     | [Начать проект](https://labex.io/ru/courses/vulnerability-assessment-management)                    |
+|      096 | [Перечисление SMB и гостевой доступ](https://labex.io/ru/courses/project-smb-enumeration-and-guest-access)                                                                 | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-smb-enumeration-and-guest-access)               |
+|      097 | [Общий доступ к файлам NFS и Samba](https://labex.io/ru/courses/nfs-and-samba-file-sharing)                                                                                | Средний     | [Начать проект](https://labex.io/ru/courses/nfs-and-samba-file-sharing)                             |
+|      098 | [Администрирование SELinux](https://labex.io/ru/courses/selinux-administration)                                                                                            | Средний     | [Начать проект](https://labex.io/ru/courses/selinux-administration)                                 |
+|      099 | [Получить программу, удовлетворяющую условию](https://labex.io/ru/courses/project-get-program-that-satisfies-the-condition)                                                | Начинающий  | [Начать проект](https://labex.io/ru/courses/project-get-program-that-satisfies-the-condition)       |
+|      100 | [Высокая доступность Keepalived](https://labex.io/ru/courses/keepalived-high-availability)                                                                                 | Средний     | [Начать проект](https://labex.io/ru/courses/keepalived-high-availability)                           |
 
-## Испытания
+[Посмотреть больше на LabEx](https://labex.io/ru/learn/linux)
 
-Используйте эти короткие испытания по Linux, чтобы отработать конкретные навыки после проекта или во время короткой сессии кодинга.
+## About LabEx
 
-|   Индекс | Название                                                                                                                               | Сложность   | Практика                                                                                               |
-|----------|----------------------------------------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------|
-|       01 | [Отображение информации о пользователе и группе](https://labex.io/ru/labs/linux-display-user-and-group-information-8718)               | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-display-user-and-group-information-8718)             |
-|       02 | [Файлы и директории](https://labex.io/ru/labs/linux-files-and-directories-270246)                                                      | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-files-and-directories-270246)                        |
-|       03 | [Тайна рукописи](https://labex.io/ru/labs/linux-the-manuscript-mystery-384742)                                                         | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-the-manuscript-mystery-384742)                       |
-|       04 | [Изменение владельца файла](https://labex.io/ru/labs/shell-change-file-ownership-270254)                                               | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/shell-change-file-ownership-270254)                        |
-|       05 | [Создание персонального приветствия в терминале](https://labex.io/ru/labs/linux-create-personalized-terminal-greeting-446322)          | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-create-personalized-terminal-greeting-446322)        |
-|       06 | [Трюк Джокера](https://labex.io/ru/labs/linux-the-joker-s-trick-270247)                                                                | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-the-joker-s-trick-270247)                            |
-|       07 | [Знакомство с обстановкой](https://labex.io/ru/labs/linux-day-1-the-lay-of-the-land-596200)                                            | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-day-1-the-lay-of-the-land-596200)                    |
-|       08 | [Цифровой архитектор](https://labex.io/ru/labs/linux-day-2-the-digital-architect-596201)                                               | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-day-2-the-digital-architect-596201)                  |
-|       09 | [Расследование логов](https://labex.io/ru/labs/linux-day-3-the-log-investigator-596202)                                                | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-day-3-the-log-investigator-596202)                   |
-|       10 | [Удаление и перемещение файлов](https://labex.io/ru/labs/linux-delete-and-move-files-7777)                                             | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-delete-and-move-files-7777)                          |
-|       11 | [Страж крепости](https://labex.io/ru/labs/linux-day-4-the-fortress-guardian-596203)                                                    | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-day-4-the-fortress-guardian-596203)                  |
-|       12 | [Добавление новых пользователей и групп](https://labex.io/ru/labs/linux-add-new-user-and-group-17987)                                  | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-add-new-user-and-group-17987)                        |
-|       13 | [Хранитель ключей](https://labex.io/ru/labs/linux-day-5-the-keeper-of-the-keys-596204)                                                 | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-day-5-the-keeper-of-the-keys-596204)                 |
-|       14 | [Навигация по директориям Linux](https://labex.io/ru/labs/linux-directory-navigation-387844)                                           | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-directory-navigation-387844)                         |
-|       15 | [Операция «Квантовый скачок»](https://labex.io/ru/labs/git-operation-quantum-leap-387717)                                              | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/git-operation-quantum-leap-387717)                         |
-|       16 | [Поиск пиратских сокровищ](https://labex.io/ru/labs/shell-finding-the-pirate-s-treasure-388807)                                        | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/shell-finding-the-pirate-s-treasure-388807)                |
-|       17 | [Настройка структуры нового проекта](https://labex.io/ru/labs/linux-setting-up-a-new-project-structure-387859)                         | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-setting-up-a-new-project-structure-387859)           |
-|       18 | [Поиск файла](https://labex.io/ru/labs/linux-find-a-file-17993)                                                                        | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-find-a-file-17993)                                   |
-|       19 | [Организация файлов и каталогов](https://labex.io/ru/labs/linux-organizing-files-and-directories-387877)                               | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-organizing-files-and-directories-387877)             |
-|       20 | [Просмотр логов и конфигурационных файлов в Linux](https://labex.io/ru/labs/linux-viewing-log-and-configuration-files-in-linux-387914) | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-viewing-log-and-configuration-files-in-linux-387914) |
-|       21 | [Настройка личности в Машине Времени](https://labex.io/ru/labs/git-time-machine-identity-configuration-387720)                         | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/git-time-machine-identity-configuration-387720)            |
-|       22 | [Исследование системных таблиц MySQL](https://labex.io/ru/labs/mysql-explore-mysql-system-tables-391702)                               | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/mysql-explore-mysql-system-tables-391702)                  |
-|       23 | [Проверка версии Kali Linux](https://labex.io/ru/labs/kali-verify-kali-linux-version-552268)                                           | Средний     | [Начать Испытание](https://labex.io/ru/labs/kali-verify-kali-linux-version-552268)                     |
-|       24 | [Чемодан путешественника во времени](https://labex.io/ru/labs/git-the-time-traveler-s-suitcase-387725)                                 | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/git-the-time-traveler-s-suitcase-387725)                   |
-|       25 | [Оперативное обнаружение угроз](https://labex.io/ru/labs/linux-rapid-threat-detection-387930)                                          | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-rapid-threat-detection-387930)                       |
-|       26 | [Резервное копирование системных журналов](https://labex.io/ru/labs/linux-backup-system-log-17989)                                     | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-backup-system-log-17989)                             |
-|       27 | [Расшифровка секретного документа](https://labex.io/ru/labs/linux-decrypting-top-secret-document-415952)                               | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-decrypting-top-secret-document-415952)               |
-|       28 | [Настройка переменных окружения в Linux](https://labex.io/ru/labs/linux-configure-linux-environment-variables-437861)                  | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-configure-linux-environment-variables-437861)        |
-|       29 | [Иголка в стоге сена](https://labex.io/ru/labs/linux-needle-in-the-haystack-388109)                                                    | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-needle-in-the-haystack-388109)                       |
-|       30 | [Анализ использования дискового пространства](https://labex.io/ru/labs/linux-analyzing-disk-usage-7775)                                | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-analyzing-disk-usage-7775)                           |
-|       31 | [Процесс-менеджер](https://labex.io/ru/labs/linux-day-6-the-process-overseer-596618)                                                   | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-day-6-the-process-overseer-596618)                   |
-|       32 | [Конвейер данных космического сражения](https://labex.io/ru/labs/linux-space-battle-data-pipeline-385343)                              | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-space-battle-data-pipeline-385343)                   |
-|       33 | [Сетевой навигатор](https://labex.io/ru/labs/linux-day-7-the-network-navigator-596619)                                                 | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-day-7-the-network-navigator-596619)                  |
-|       34 | [Анализ директорий в переменной PATH](https://labex.io/ru/labs/linux-analyzing-path-directories-385344)                                | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-analyzing-path-directories-385344)                   |
-|       35 | [Анализ истории команд](https://labex.io/ru/labs/linux-analyze-historical-commands-17988)                                              | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-analyze-historical-commands-17988)                   |
-|       36 | [Хранитель программного обеспечения](https://labex.io/ru/labs/linux-day-8-the-software-steward-596620)                                 | Продвинутый | [Начать Испытание](https://labex.io/ru/labs/linux-day-8-the-software-steward-596620)                   |
-|       37 | [Реализация жестких ссылок в Linux](https://labex.io/ru/labs/rhel-implement-hard-links-in-linux-588253)                                | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/rhel-implement-hard-links-in-linux-588253)                 |
-|       38 | [Backup Sentinel (Страж резервных копий)](https://labex.io/ru/labs/linux-day-9-the-backup-sentinel-596621)                             | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/linux-day-9-the-backup-sentinel-596621)                    |
-|       39 | [Подсчет слов и сортировка](https://labex.io/ru/labs/linux-word-count-and-sorting-388125)                                              | Средний     | [Начать Испытание](https://labex.io/ru/labs/linux-word-count-and-sorting-388125)                       |
-|       40 | [Извлечение почтовых адресов и чисел](https://labex.io/ru/labs/linux-extracting-mails-and-numbers-17991)                               | Средний     | [Начать Испытание](https://labex.io/ru/labs/linux-extracting-mails-and-numbers-17991)                  |
-|       41 | [Искусство написания скриптов](https://labex.io/ru/labs/linux-day-10-the-script-artisan-596613)                                        | Продвинутый | [Начать Испытание](https://labex.io/ru/labs/linux-day-10-the-script-artisan-596613)                    |
-|       42 | [Вход в систему и переключение между пользователями](https://labex.io/ru/labs/rhel-log-in-and-switch-users-588260)                     | Средний     | [Начать Испытание](https://labex.io/ru/labs/rhel-log-in-and-switch-users-588260)                       |
-|       43 | [Установка и удаление пакетов](https://labex.io/ru/labs/linux-installing-and-removing-packages-385380)                                 | Средний     | [Начать Испытание](https://labex.io/ru/labs/linux-installing-and-removing-packages-385380)             |
-|       44 | [Обработка данных о сотрудниках](https://labex.io/ru/labs/linux-processing-employees-data-388132)                                      | Средний     | [Начать Испытание](https://labex.io/ru/labs/linux-processing-employees-data-388132)                    |
-|       45 | [Детектив дискового пространства](https://labex.io/ru/labs/linux-disk-usage-detective-388099)                                          | Средний     | [Начать Испытание](https://labex.io/ru/labs/linux-disk-usage-detective-388099)                         |
-|       46 | [Дилемма путешественника во времени](https://labex.io/ru/labs/git-the-time-traveler-s-dilemma-387733)                                  | Средний     | [Начать Испытание](https://labex.io/ru/labs/git-the-time-traveler-s-dilemma-387733)                    |
-|       47 | [Управление правами доступа к файлам](https://labex.io/ru/labs/rhel-manage-file-permissions-588264)                                    | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/rhel-manage-file-permissions-588264)                       |
-|       48 | [Управление логами и архивами](https://labex.io/ru/labs/rhel-manage-logs-and-archives-588265)                                          | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/rhel-manage-logs-and-archives-588265)                      |
-|       49 | [Поиск файлов с установленным битом setuid](https://labex.io/ru/labs/rhel-locate-setuid-files-588259)                                  | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/rhel-locate-setuid-files-588259)                           |
-|       50 | [Создание и извлечение архивов Tar](https://labex.io/ru/labs/rhel-create-and-extract-tar-archives-588239)                              | Средний     | [Начать Испытание](https://labex.io/ru/labs/rhel-create-and-extract-tar-archives-588239)               |
-
-Больше испытаний доступно на LabEx: [Посмотреть все испытания](https://labex.io/ru/challenges).
-
-## Больше
-
-- 🔗 [Узнать больше о Linux на LabEx](https://labex.io/ru/skilltrees/linux)
-- 🔗 [Посмотреть больше проектов программирования](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Посмотреть курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 

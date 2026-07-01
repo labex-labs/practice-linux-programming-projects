@@ -1,324 +1,127 @@
-# Práctica de Proyectos de Programación de Linux
+# Linux Practice Projects
 
-## Idiomas
+**Idiomas:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-<div align="center">
-<img width="128px" src="https://file.labex.io/upload/u/1991/GXJSo2W4OcyY.png">
-</div>
+<p align="center">
+  <a href="https://labex.io/es/learn/linux">
+    <img width="128" src="https://file.labex.io/upload/u/1991/GXJSo2W4OcyY.png" alt="Linux">
+  </a>
+</p>
 
 Cursos prácticos de Linux en una ruta pensada para principiantes: de la línea de comandos a la administración de sistemas y el scripting, con laboratorio interactivo y ejercicios sin vídeo centrados en operación y automatización.
 
+[Explorar proyectos en LabEx](https://labex.io/es/learn/linux)
+
 ## Proyectos
 
-Explora 24 proyectos de Linux para principiantes que convierten conceptos clave del lenguaje en programas pequeños y completos. Cada proyecto se abre en LabEx con un entorno listo para usar, para que puedas concentrarte en construir.
+Explora 100 proyectos de Linux para principiantes y aplica conceptos clave en programas pequeños y completos. Cada proyecto se abre en LabEx con un entorno listo para usar, para que puedas concentrarte en crear.
 
-<table>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-build-a-linux-system-monitor-using-bash"><img src="https://course-cover.labex.io/project-build-a-linux-system-monitor-using-bash.png?lang=es" alt="Construir un monitor de sistema Linux utilizando Bash" width="160"></a>
-    </td>
-    <td>
-      <h3>01. <a href="https://labex.io/es/courses/project-build-a-linux-system-monitor-using-bash">Construir un monitor de sistema Linux utilizando Bash</a></h3>
-      <p>En este proyecto, aprenderás cómo crear un monitor de sistema Linux utilizando un script de shell. El monitor de sistema monitoreará continuamente el uso de CPU, memoria y disco de tu sistema Linux y mostrará los porcentajes de uso. Si se supera algún umbral de uso de CPU, memoria o disco, se enviará una alerta. Puedes personalizar los valores de umbral según tus necesidades y agregar tu propia lógica para enviar alertas.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-build-a-linux-system-monitor-using-bash">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-build-a-task-scheduler-using-bash"><img src="https://course-cover.labex.io/project-build-a-task-scheduler-using-bash.png?lang=es" alt="Construir un programador de tareas utilizando Bash" width="160"></a>
-    </td>
-    <td>
-      <h3>02. <a href="https://labex.io/es/courses/project-build-a-task-scheduler-using-bash">Construir un programador de tareas utilizando Bash</a></h3>
-      <p>Este proyecto lo guiará a través de la creación de un programador de tareas utilizando un script de Bash. El programador de tareas le permite programar y gestionar tareas para que se ejecuten en intervalos especificados, como cada hora, diariamente o semanalmente. El script ofrece opciones para enumerar las tareas programadas, agregar nuevas tareas y eliminar tareas existentes.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-build-a-task-scheduler-using-bash">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-installing-and-configuring-a-mail-server"><img src="https://course-cover.labex.io/project-installing-and-configuring-a-mail-server.png?lang=es" alt="Instalación y configuración de un servidor de correo" width="160"></a>
-    </td>
-    <td>
-      <h3>03. <a href="https://labex.io/es/courses/project-installing-and-configuring-a-mail-server">Instalación y configuración de un servidor de correo</a></h3>
-      <p>En este laboratorio, los participantes configurarán e instalarán un servidor de correo Postfix en Linux, aprendiendo los conceptos básicos de la gestión y operación de servidores de correo electrónico.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-installing-and-configuring-a-mail-server">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-certificate-configuration"><img src="https://course-cover.labex.io/project-certificate-configuration.png?lang=es" alt="Configuración de certificados SSH para un inicio de sesión seguro" width="160"></a>
-    </td>
-    <td>
-      <h3>04. <a href="https://labex.io/es/courses/project-certificate-configuration">Configuración de certificados SSH para un inicio de sesión seguro</a></h3>
-      <p>En este proyecto, aprenderá cómo configurar un certificado SSH para el usuario labex, de modo que el usuario labex no necesite ingresar una contraseña al iniciar sesión por SSH en el entorno experimental local.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-certificate-configuration">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-creating-a-typing-game-using-bash"><img src="https://course-cover.labex.io/project-creating-a-typing-game-using-bash.png?lang=es" alt="Creación de un juego de escritura usando Bash" width="160"></a>
-    </td>
-    <td>
-      <h3>05. <a href="https://labex.io/es/courses/project-creating-a-typing-game-using-bash">Creación de un juego de escritura usando Bash</a></h3>
-      <p>En este proyecto, crearás un sencillo juego de escritura utilizando un script de shell que muestra caracteres aleatorios en la pantalla y te desafía a escribirlos antes de que desaparezcan, con opciones para practicar la escritura de números, letras, una mezcla de ambos o palabras personalizadas.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-creating-a-typing-game-using-bash">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-get-system-information"><img src="https://course-cover.labex.io/project-get-system-information.png?lang=es" alt="Recuperación de información del servidor Linux" width="160"></a>
-    </td>
-    <td>
-      <h3>06. <a href="https://labex.io/es/courses/project-get-system-information">Recuperación de información del servidor Linux</a></h3>
-      <p>En este proyecto, aprenderá cómo recuperar y mostrar información del sistema en un servidor Linux. El script getinfo.sh que creará se puede utilizar para recopilar rápidamente detalles importantes sobre el hardware, el software y la configuración de red del servidor.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-get-system-information">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-restore-access-to-website"><img src="https://course-cover.labex.io/project-restore-access-to-website.png?lang=es" alt="Restaurar el acceso a un sitio web" width="160"></a>
-    </td>
-    <td>
-      <h3>07. <a href="https://labex.io/es/courses/project-restore-access-to-website">Restaurar el acceso a un sitio web</a></h3>
-      <p>En este proyecto, aprenderás cómo restaurar el acceso a un sitio web que se ha roto accidentalmente. El sitio web utiliza servicios Nginx, que actualmente no se pueden iniciar. Tu tarea es hacer que el servicio Nginx se ejecute nuevamente para que se pueda acceder al sitio web.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-restore-access-to-website">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-searching-for-specific-files"><img src="https://course-cover.labex.io/project-searching-for-specific-files.png?lang=es" alt="Búsqueda de archivos específicos" width="160"></a>
-    </td>
-    <td>
-      <h3>08. <a href="https://labex.io/es/courses/project-searching-for-specific-files">Búsqueda de archivos específicos</a></h3>
-      <p>En este proyecto, aprenderás cómo buscar archivos en el directorio /etc que contengan la cadena &#x27;labex&#x27; en su contenido y organizar la salida en un formato específico.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-searching-for-specific-files">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-log-backup"><img src="https://course-cover.labex.io/project-log-backup.png?lang=es" alt="Copia de seguridad automática diaria de registros del sistema" width="160"></a>
-    </td>
-    <td>
-      <h3>09. <a href="https://labex.io/es/courses/project-log-backup">Copia de seguridad automática diaria de registros del sistema</a></h3>
-      <p>En este proyecto, aprenderá cómo configurar un trabajo cron para realizar automáticamente copias de seguridad diarias de los archivos de registro del sistema. Como administrador de sistema, es posible que deba realizar con frecuencia copias de seguridad de registros para garantizar la disponibilidad y recuperabilidad de los datos importantes del sistema.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-log-backup">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-chess-board-in-terminal"><img src="https://course-cover.labex.io/project-chess-board-in-terminal.png?lang=es" alt="Tablero de ajedrez en la terminal" width="160"></a>
-    </td>
-    <td>
-      <h3>10. <a href="https://labex.io/es/courses/project-chess-board-in-terminal">Tablero de ajedrez en la terminal</a></h3>
-      <p>En este proyecto, aprenderás cómo crear un tablero de ajedrez utilizando scripting en Bash. Al completar este proyecto, adquirirás experiencia en el uso de bucles anidados, impresión en color y scripting de shell.</p>
-      <p><strong>Nivel:</strong> Intermedio · <a href="https://labex.io/es/courses/project-chess-board-in-terminal">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-copy-specified-files"><img src="https://course-cover.labex.io/project-copy-specified-files.png?lang=es" alt="Copiar archivos grandes manteniendo la estructura" width="160"></a>
-    </td>
-    <td>
-      <h3>11. <a href="https://labex.io/es/courses/project-copy-specified-files">Copiar archivos grandes manteniendo la estructura</a></h3>
-      <p>En este proyecto, aprenderás cómo copiar archivos de más de 10K del directorio /etc al directorio /tmp/etc, manteniendo la estructura de directorios. Esta es una habilidad útil para administrar y organizar archivos en un sistema Linux.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-copy-specified-files">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-directory-size"><img src="https://course-cover.labex.io/project-directory-size.png?lang=es" alt="Personalización de la lista de archivos en Linux" width="160"></a>
-    </td>
-    <td>
-      <h3>12. <a href="https://labex.io/es/courses/project-directory-size">Personalización de la lista de archivos en Linux</a></h3>
-      <p>En este proyecto, aprenderás cómo crear un comando ls personalizado que muestra los tamaños de los directorios en un formato fácil de entender. Este proyecto te ayudará a comprender cómo recuperar y formatear información de archivos en un entorno Linux utilizando scripting en Zsh.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-directory-size">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-new-colleague-system-account-setup"><img src="https://course-cover.labex.io/project-new-colleague-system-account-setup.png?lang=es" alt="Configuración de la cuenta de sistema para un nuevo compañero" width="160"></a>
-    </td>
-    <td>
-      <h3>13. <a href="https://labex.io/es/courses/project-new-colleague-system-account-setup">Configuración de la cuenta de sistema para un nuevo compañero</a></h3>
-      <p>En este proyecto, aprenderá cómo configurar una nueva cuenta de usuario para un nuevo compañero llamado Jane en el servidor de prueba LabEx. Creará la cuenta de usuario, configurará el directorio principal, cambiará la shell predeterminada a zsh y otorgará privilegios sudo al nuevo usuario.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-new-colleague-system-account-setup">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-log-analysis"><img src="https://course-cover.labex.io/project-log-analysis.png?lang=es" alt="Análisis y optimización de registros de Nginx" width="160"></a>
-    </td>
-    <td>
-      <h3>14. <a href="https://labex.io/es/courses/project-log-analysis">Análisis y optimización de registros de Nginx</a></h3>
-      <p>En este proyecto, aprenderá cómo realizar un análisis de registros en los registros de acceso de un servidor Nginx. Recuperará información valiosa de los registros, como las direcciones IP principales por número de accesos, las direcciones IP que accedieron al servidor al menos 10 veces, las solicitudes más accedidas y las direcciones de solicitud con estado 404.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-log-analysis">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-bulk-creation-and-deletion-of-users-and-groups"><img src="https://course-cover.labex.io/project-bulk-creation-and-deletion-of-users-and-groups.png?lang=es" alt="Lote de creación y eliminación de usuarios y grupos" width="160"></a>
-    </td>
-    <td>
-      <h3>15. <a href="https://labex.io/es/courses/project-bulk-creation-and-deletion-of-users-and-groups">Lote de creación y eliminación de usuarios y grupos</a></h3>
-      <p>En este proyecto, aprenderá cómo crear y gestionar cuentas de usuario para profesores y estudiantes en un entorno de servidor de aula. Utilizará un script de bash llamado userctr.sh para automatizar el proceso de agregar y eliminar cuentas de usuario, que puede ser una tarea tediosa cuando se hace manualmente.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-bulk-creation-and-deletion-of-users-and-groups">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-collect-files-from-specified-time"><img src="https://course-cover.labex.io/project-collect-files-from-specified-time.png?lang=es" alt="Recopilar archivos desde una fecha especificada" width="160"></a>
-    </td>
-    <td>
-      <h3>16. <a href="https://labex.io/es/courses/project-collect-files-from-specified-time">Recopilar archivos desde una fecha especificada</a></h3>
-      <p>En este proyecto, aprenderá cómo copiar archivos del directorio /etc con una última modificación en el año 2022 al directorio /tmp/etc manteniendo la estructura de directorios.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-collect-files-from-specified-time">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-extracting-information-from-text"><img src="https://course-cover.labex.io/project-extracting-information-from-text.png?lang=es" alt="Extracción de información del texto" width="160"></a>
-    </td>
-    <td>
-      <h3>17. <a href="https://labex.io/es/courses/project-extracting-information-from-text">Extracción de información del texto</a></h3>
-      <p>En este proyecto, aprenderás cómo extraer URLs de imágenes de archivos Markdown utilizando un script de Bash. Esta es una tarea común cuando se trabaja con documentación técnica, ya que te permite identificar y recuperar rápidamente las imágenes utilizadas en un documento.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-extracting-information-from-text">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-extracting-link-information-from-text"><img src="https://course-cover.labex.io/project-extracting-link-information-from-text.png?lang=es" alt="Extracción de información de enlaces desde texto" width="160"></a>
-    </td>
-    <td>
-      <h3>18. <a href="https://labex.io/es/courses/project-extracting-link-information-from-text">Extracción de información de enlaces desde texto</a></h3>
-      <p>En este proyecto, aprenderás cómo extraer información de enlaces de documentos Markdown utilizando un script de Bash. Esta es una tarea común en el desarrollo de software, donde los desarrolladores necesitan procesar y extraer información específica de documentos basados en texto.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-extracting-link-information-from-text">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-get-program-that-satisfies-the-condition"><img src="https://course-cover.labex.io/project-get-program-that-satisfies-the-condition.png?lang=es" alt="Obtener el programa que cumple la condición" width="160"></a>
-    </td>
-    <td>
-      <h3>19. <a href="https://labex.io/es/courses/project-get-program-that-satisfies-the-condition">Obtener el programa que cumple la condición</a></h3>
-      <p>En este proyecto, aprenderás cómo crear un script que pueda verificar si un programa se está ejecutando en un puerto específico e imprimir la ruta completa del programa o &#x27;OK&#x27; si no hay ningún programa en ejecución.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-get-program-that-satisfies-the-condition">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-avoid-accidental-deletion"><img src="https://course-cover.labex.io/project-avoid-accidental-deletion.png?lang=es" alt="Implementar un comando personalizado con soporte para papelera" width="160"></a>
-    </td>
-    <td>
-      <h3>20. <a href="https://labex.io/es/courses/project-avoid-accidental-deletion">Implementar un comando personalizado con soporte para papelera</a></h3>
-      <p>En este proyecto, aprenderás cómo crear un comando rm personalizado que mueva los archivos eliminados a un directorio de papelera en lugar de eliminarlos permanentemente. Esta es una función útil para tener en tu servidor Linux y evitar la eliminación accidental de archivos cruciales.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-avoid-accidental-deletion">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-network-data-packet-statistics"><img src="https://course-cover.labex.io/project-network-data-packet-statistics.png?lang=es" alt="Estadísticas de Paquetes de Datos de Red" width="160"></a>
-    </td>
-    <td>
-      <h3>21. <a href="https://labex.io/es/courses/project-network-data-packet-statistics">Estadísticas de Paquetes de Datos de Red</a></h3>
-      <p>En este proyecto, aprenderá cómo crear un script de Zsh que monitoree el estado de comunicación de red de un puerto específico. El script contará la cantidad de paquetes de datos transmitidos y recibidos en el puerto especificado dentro de un período de 3 segundos.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-network-data-packet-statistics">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-password-generator"><img src="https://course-cover.labex.io/project-password-generator.png?lang=es" alt="Desarrollo de un Generador de Contraseñas Aleatorias" width="160"></a>
-    </td>
-    <td>
-      <h3>22. <a href="https://labex.io/es/courses/project-password-generator">Desarrollo de un Generador de Contraseñas Aleatorias</a></h3>
-      <p></p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-password-generator">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-nmap-port-scanning-and-telnet-access"><img src="https://course-cover.labex.io/project-nmap-port-scanning-and-telnet-access.png?lang=es" alt="Escaneo con Nmap y Acceso Telnet" width="160"></a>
-    </td>
-    <td>
-      <h3>23. <a href="https://labex.io/es/courses/project-nmap-port-scanning-and-telnet-access">Escaneo con Nmap y Acceso Telnet</a></h3>
-      <p>En este proyecto, aprenderás los fundamentos de la enumeración de redes y las pruebas de penetración básicas. Utilizarás nmap para escanear puertos abiertos en un sistema objetivo, identificar servicios vulnerables como Telnet y obtener acceso para recuperar una &#x27;flag&#x27;. Este proyecto práctico cubre habilidades esenciales de ciberseguridad, incluyendo escaneo de puertos, detección de servicios y técnicas de acceso remoto.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-nmap-port-scanning-and-telnet-access">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="180">
-      <a href="https://labex.io/es/courses/project-ftp-enumeration-and-anonymous-access"><img src="https://course-cover.labex.io/project-ftp-enumeration-and-anonymous-access.png?lang=es" alt="Enumeración FTP y Acceso Anónimo" width="160"></a>
-    </td>
-    <td>
-      <h3>24. <a href="https://labex.io/es/courses/project-ftp-enumeration-and-anonymous-access">Enumeración FTP y Acceso Anónimo</a></h3>
-      <p>En este proyecto, aprenderás los fundamentos de la enumeración de redes y la explotación del protocolo de transferencia de archivos. Utilizarás nmap para escanear puertos abiertos en un sistema objetivo, identificar servicios FTP mal configurados, obtener acceso anónimo y recuperar una flag. Este proyecto práctico cubre habilidades esenciales de ciberseguridad, incluyendo escaneo de puertos, detección de servicios y técnicas de explotación FTP.</p>
-      <p><strong>Nivel:</strong> Principiante · <a href="https://labex.io/es/courses/project-ftp-enumeration-and-anonymous-access">Iniciar proyecto</a></p>
-    </td>
-  </tr>
-</table>
+|   Índice | Proyecto                                                                                                                                                                              | Dificultad   | Práctica                                                                                               |
+|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------|
+|      001 | [Inicio rápido con Linux](https://labex.io/es/courses/quick-start-with-linux)                                                                                                         | Principiante | [Iniciar proyecto](https://labex.io/es/courses/quick-start-with-linux)                                 |
+|      002 | [Practicar comandos de Linux](https://labex.io/es/courses/linux-basic-commands-practice-online)                                                                                       | Principiante | [Iniciar proyecto](https://labex.io/es/courses/linux-basic-commands-practice-online)                   |
+|      003 | [Linux para Principiantes](https://labex.io/es/courses/linux-for-noobs)                                                                                                               | Principiante | [Iniciar proyecto](https://labex.io/es/courses/linux-for-noobs)                                        |
+|      004 | [Kali Linux para Principiantes](https://labex.io/es/courses/kali-linux-for-beginners)                                                                                                 | Principiante | [Iniciar proyecto](https://labex.io/es/courses/kali-linux-for-beginners)                               |
+|      005 | [Conviértete en un Administrador de Sistemas Junior](https://labex.io/es/courses/become-a-junior-system-administrator)                                                                | Principiante | [Iniciar proyecto](https://labex.io/es/courses/become-a-junior-system-administrator)                   |
+|      006 | [Shell para Principiantes](https://labex.io/es/courses/shell-for-beginners)                                                                                                           | Principiante | [Iniciar proyecto](https://labex.io/es/courses/shell-for-beginners)                                    |
+|      007 | [Laboratorios de Certificación de Administración de Sistemas Red Hat (RH124)](https://labex.io/es/courses/red-hat-system-administration-rh124-labs)                                   | Principiante | [Iniciar proyecto](https://labex.io/es/courses/red-hat-system-administration-rh124-labs)               |
+|      008 | [Nmap para Principiantes](https://labex.io/es/courses/nmap-for-beginners)                                                                                                             | Principiante | [Iniciar proyecto](https://labex.io/es/courses/nmap-for-beginners)                                     |
+|      009 | [Laboratorios de Capacitación para la Certificación CompTIA Linux+](https://labex.io/es/courses/comptia-linux-plus-training-labs)                                                     | Principiante | [Iniciar proyecto](https://labex.io/es/courses/comptia-linux-plus-training-labs)                       |
+|      010 | [Desafíos de práctica de Linux](https://labex.io/es/courses/linux-practice-challenges)                                                                                                | Principiante | [Iniciar proyecto](https://labex.io/es/courses/linux-practice-challenges)                              |
+|      011 | [Laboratorios de Certificación de Automatización de Red Hat Enterprise Linux con Ansible (RH294)](https://labex.io/es/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) | Principiante | [Iniciar proyecto](https://labex.io/es/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) |
+|      012 | [Construir un monitor de sistema Linux utilizando Bash](https://labex.io/es/courses/project-build-a-linux-system-monitor-using-bash)                                                  | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-build-a-linux-system-monitor-using-bash)        |
+|      013 | [Conceptos Básicos de la Terminal de Linux](https://labex.io/es/courses/linux-terminal-basics)                                                                                        | Principiante | [Iniciar proyecto](https://labex.io/es/courses/linux-terminal-basics)                                  |
+|      014 | [Ejercicios de práctica para el examen de certificación RHCSA](https://labex.io/es/courses/rhcsa-certification-exam-practice-exercises)                                               | Principiante | [Iniciar proyecto](https://labex.io/es/courses/rhcsa-certification-exam-practice-exercises)            |
+|      015 | [Ansible para Principiantes](https://labex.io/es/courses/ansible-for-beginners)                                                                                                       | Principiante | [Iniciar proyecto](https://labex.io/es/courses/ansible-for-beginners)                                  |
+|      016 | [Fundamentos de Redes en Linux](https://labex.io/es/courses/linux-networking-fundamentals)                                                                                            | Principiante | [Iniciar proyecto](https://labex.io/es/courses/linux-networking-fundamentals)                          |
+|      017 | [Navegación del Sistema de Archivos y Operaciones con Archivos](https://labex.io/es/courses/file-system-navigation-and-file-operations)                                               | Principiante | [Iniciar proyecto](https://labex.io/es/courses/file-system-navigation-and-file-operations)             |
+|      018 | [Laboratorios de Certificación de Administración de Sistemas Red Hat (RH134)](https://labex.io/es/courses/red-hat-system-administration-rh134-labs)                                   | Principiante | [Iniciar proyecto](https://labex.io/es/courses/red-hat-system-administration-rh134-labs)               |
+|      019 | [Visualización, Búsqueda y Edición de Archivos](https://labex.io/es/courses/viewing-searching-and-editing-files)                                                                      | Principiante | [Iniciar proyecto](https://labex.io/es/courses/viewing-searching-and-editing-files)                    |
+|      020 | [100 días de desafíos de Linux](https://labex.io/es/courses/100-days-of-linux-challenges)                                                                                             | Principiante | [Iniciar proyecto](https://labex.io/es/courses/100-days-of-linux-challenges)                           |
+|      021 | [Redirección y Tuberías (Pipelines) de Shell](https://labex.io/es/courses/shell-redirection-and-pipelines)                                                                            | Principiante | [Iniciar proyecto](https://labex.io/es/courses/shell-redirection-and-pipelines)                        |
+|      022 | [Entorno y Variables de Shell](https://labex.io/es/courses/shell-environment-and-variables)                                                                                           | Principiante | [Iniciar proyecto](https://labex.io/es/courses/shell-environment-and-variables)                        |
+|      023 | [Usuarios, Grupos y Permisos](https://labex.io/es/courses/users-groups-and-permissions)                                                                                               | Principiante | [Iniciar proyecto](https://labex.io/es/courses/users-groups-and-permissions)                           |
+|      024 | [Procesos y Control de Tareas](https://labex.io/es/courses/processes-and-job-control)                                                                                                 | Principiante | [Iniciar proyecto](https://labex.io/es/courses/processes-and-job-control)                              |
+|      025 | [Información del Sistema y Monitoreo de Recursos](https://labex.io/es/courses/system-information-and-resource-monitoring)                                                             | Principiante | [Iniciar proyecto](https://labex.io/es/courses/system-information-and-resource-monitoring)             |
+|      026 | [Rescate e Inicialización del Sistema](https://labex.io/es/courses/project-system-rescue-and-initialization)                                                                          | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-system-rescue-and-initialization)               |
+|      027 | [Construir un programador de tareas utilizando Bash](https://labex.io/es/courses/project-build-a-task-scheduler-using-bash)                                                           | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-build-a-task-scheduler-using-bash)              |
+|      028 | [Escaneo de redes práctico con Nmap en Linux](https://labex.io/es/courses/hands-on-network-scanning-with-nmap-on-linux)                                                               | Principiante | [Iniciar proyecto](https://labex.io/es/courses/hands-on-network-scanning-with-nmap-on-linux)           |
+|      029 | [Acceso Remoto y Transferencia Segura de Archivos](https://labex.io/es/courses/remote-access-and-secure-file-transfer)                                                                | Principiante | [Iniciar proyecto](https://labex.io/es/courses/remote-access-and-secure-file-transfer)                 |
+|      030 | [Instalación y configuración de un servidor de correo](https://labex.io/es/courses/project-installing-and-configuring-a-mail-server)                                                  | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-installing-and-configuring-a-mail-server)       |
+|      031 | [Gestión de Paquetes de Software](https://labex.io/es/courses/software-package-management)                                                                                            | Principiante | [Iniciar proyecto](https://labex.io/es/courses/software-package-management)                            |
+|      032 | [Configuración de certificados SSH para un inicio de sesión seguro](https://labex.io/es/courses/project-certificate-configuration)                                                    | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-certificate-configuration)                      |
+|      033 | [Seguridad en Linux para DevSecOps](https://labex.io/es/courses/linux-security-for-devsecops)                                                                                         | Principiante | [Iniciar proyecto](https://labex.io/es/courses/linux-security-for-devsecops)                           |
+|      034 | [Fundamentos de Shell Scripting](https://labex.io/es/courses/shell-scripting-fundamentals)                                                                                            | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/shell-scripting-fundamentals)                           |
+|      035 | [Despliegue de Servidor Web y Recuperación ante Desastres](https://labex.io/es/courses/project-web-server-deployment-and-disaster-recovery)                                           | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/project-web-server-deployment-and-disaster-recovery)    |
+|      036 | [Sistemas de Archivos de Disco y Gestión de Almacenamiento](https://labex.io/es/courses/disk-filesystems-and-storage-management)                                                      | Principiante | [Iniciar proyecto](https://labex.io/es/courses/disk-filesystems-and-storage-management)                |
+|      037 | [Escaneo con Nmap y Acceso Telnet](https://labex.io/es/courses/project-nmap-port-scanning-and-telnet-access)                                                                          | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-nmap-port-scanning-and-telnet-access)           |
+|      038 | [Creación de un juego de escritura usando Bash](https://labex.io/es/courses/project-creating-a-typing-game-using-bash)                                                                | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-creating-a-typing-game-using-bash)              |
+|      039 | [Archivado y Copias de Seguridad](https://labex.io/es/courses/archiving-and-backup)                                                                                                   | Principiante | [Iniciar proyecto](https://labex.io/es/courses/archiving-and-backup)                                   |
+|      040 | [Técnicas Avanzadas de Scripting Shell](https://labex.io/es/courses/advanced-shell-scripting-techniques)                                                                              | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/advanced-shell-scripting-techniques)                    |
+|      041 | [Explotación de servidores Kali en acción](https://labex.io/es/courses/kali-server-exploitation-in-action)                                                                            | Principiante | [Iniciar proyecto](https://labex.io/es/courses/kali-server-exploitation-in-action)                     |
+|      042 | [Gestión de Servicios con systemd](https://labex.io/es/courses/service-management-with-systemd)                                                                                       | Principiante | [Iniciar proyecto](https://labex.io/es/courses/service-management-with-systemd)                        |
+|      043 | [Servidor Web Nginx](https://labex.io/es/courses/nginx-web-server)                                                                                                                    | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/nginx-web-server)                                       |
+|      044 | [Lote de creación y eliminación de usuarios y grupos](https://labex.io/es/courses/project-bulk-creation-and-deletion-of-users-and-groups)                                             | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-bulk-creation-and-deletion-of-users-and-groups) |
+|      045 | [Búsqueda de archivos específicos](https://labex.io/es/courses/project-searching-for-specific-files)                                                                                  | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-searching-for-specific-files)                   |
+|      046 | [Enumeración FTP y Acceso Anónimo](https://labex.io/es/courses/project-ftp-enumeration-and-anonymous-access)                                                                          | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-ftp-enumeration-and-anonymous-access)           |
+|      047 | [Recuperación de información del servidor Linux](https://labex.io/es/courses/project-get-system-information)                                                                          | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-get-system-information)                         |
+|      048 | [Técnicas de escalada de privilegios en Linux](https://labex.io/es/courses/privilege-escalation-techniques-on-linux)                                                                  | Principiante | [Iniciar proyecto](https://labex.io/es/courses/privilege-escalation-techniques-on-linux)               |
+|      049 | [Procesamiento de Texto con AWK y sed](https://labex.io/es/courses/text-processing-with-awk-and-sed)                                                                                  | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/text-processing-with-awk-and-sed)                       |
+|      050 | [Gestión de Registros y Procesamiento de Texto](https://labex.io/es/courses/log-management-and-text-processing)                                                                       | Principiante | [Iniciar proyecto](https://labex.io/es/courses/log-management-and-text-processing)                     |
+|      051 | [Restaurar el acceso a un sitio web](https://labex.io/es/courses/project-restore-access-to-website)                                                                                   | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-restore-access-to-website)                      |
+|      052 | [Pruebas de Penetración para Principiantes](https://labex.io/es/courses/penetration-testing-for-beginners)                                                                            | Principiante | [Iniciar proyecto](https://labex.io/es/courses/penetration-testing-for-beginners)                      |
+|      053 | [Tareas Programadas y Mantenimiento Rutinario](https://labex.io/es/courses/scheduled-tasks-and-routine-maintenance)                                                                   | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/scheduled-tasks-and-routine-maintenance)                |
+|      054 | [Control de Versiones con Git](https://labex.io/es/courses/version-control-with-git)                                                                                                  | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/version-control-with-git)                               |
+|      055 | [Automatización con Ansible](https://labex.io/es/courses/ansible-automation)                                                                                                          | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/ansible-automation)                                     |
+|      056 | [Administración del Servicio DNS](https://labex.io/es/courses/dns-service-administration)                                                                                             | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/dns-service-administration)                             |
+|      057 | [Fuerza Bruta de Telnet y Credenciales Débiles](https://labex.io/es/courses/project-telnet-brute-force-and-weak-credentials)                                                          | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-telnet-brute-force-and-weak-credentials)        |
+|      058 | [Desarrollo de un Kit de Herramientas de Operaciones Automatizadas](https://labex.io/es/courses/project-automated-ops-toolkit-development)                                            | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/project-automated-ops-toolkit-development)              |
+|      059 | [Fundamentos de la Base de Datos MySQL](https://labex.io/es/courses/mysql-database-basics)                                                                                            | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/mysql-database-basics)                                  |
+|      060 | [Servidor Web Apache](https://labex.io/es/courses/apache-web-server)                                                                                                                  | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/apache-web-server)                                      |
+|      061 | [Proceso de Arranque y Recuperación](https://labex.io/es/courses/boot-process-and-recovery)                                                                                           | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/boot-process-and-recovery)                              |
+|      062 | [GitHub Actions CI/CD](https://labex.io/es/courses/github-actions-cicd)                                                                                                               | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/github-actions-cicd)                                    |
+|      063 | [Seguridad Básica del Sistema](https://labex.io/es/courses/basic-system-security)                                                                                                     | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/basic-system-security)                                  |
+|      064 | [Inteligencia de Fuentes Abiertas (OSINT) y Reconocimiento Pasivo](https://labex.io/es/courses/open-source-intelligence-osint-passive-recon)                                          | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/open-source-intelligence-osint-passive-recon)           |
+|      065 | [Copia de seguridad automática diaria de registros del sistema](https://labex.io/es/courses/project-log-backup)                                                                       | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-log-backup)                                     |
+|      066 | [Vulnerabilidades de Inyección](https://labex.io/es/courses/injection-vulnerabilities)                                                                                                | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/injection-vulnerabilities)                              |
+|      067 | [Preparación para RHCSA (EX200)](https://labex.io/es/courses/rhcsa-prep)                                                                                                              | Principiante | [Iniciar proyecto](https://labex.io/es/courses/rhcsa-prep)                                             |
+|      068 | [Conceptos Básicos de Contenedores Docker](https://labex.io/es/courses/docker-container-basics)                                                                                       | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/docker-container-basics)                                |
+|      069 | [Tablero de ajedrez en la terminal](https://labex.io/es/courses/project-chess-board-in-terminal)                                                                                      | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/project-chess-board-in-terminal)                        |
+|      070 | [Monitorización con Prometheus](https://labex.io/es/courses/prometheus-monitoring)                                                                                                    | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/prometheus-monitoring)                                  |
+|      071 | [Terraform Infraestructura Como Código](https://labex.io/es/courses/terraform-infrastructure-as-code)                                                                                 | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/terraform-infrastructure-as-code)                       |
+|      072 | [Balanceo de Carga HAProxy](https://labex.io/es/courses/haproxy-load-balancing)                                                                                                       | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/haproxy-load-balancing)                                 |
+|      073 | [Análisis y optimización de registros de Nginx](https://labex.io/es/courses/project-log-analysis)                                                                                     | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-log-analysis)                                   |
+|      074 | [Python para Operaciones](https://labex.io/es/courses/python-for-operations)                                                                                                          | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/python-for-operations)                                  |
+|      075 | [Configuración de la cuenta de sistema para un nuevo compañero](https://labex.io/es/courses/project-new-colleague-system-account-setup)                                               | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-new-colleague-system-account-setup)             |
+|      076 | [Gestión de Paquetes RPM y DNF](https://labex.io/es/courses/rpm-and-dnf-package-management)                                                                                           | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/rpm-and-dnf-package-management)                         |
+|      077 | [Extracción de información del texto](https://labex.io/es/courses/project-extracting-information-from-text)                                                                           | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-extracting-information-from-text)               |
+|      078 | [Desarrollo de un Generador de Contraseñas Aleatorias](https://labex.io/es/courses/project-password-generator)                                                                        | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-password-generator)                             |
+|      079 | [Enumeración SSH y Acceso Basado en Clave](https://labex.io/es/courses/project-ssh-enumeration-and-key-based-access)                                                                  | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-ssh-enumeration-and-key-based-access)           |
+|      080 | [Recopilar archivos desde una fecha especificada](https://labex.io/es/courses/project-collect-files-from-specified-time)                                                              | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-collect-files-from-specified-time)              |
+|      081 | [Guía Rápida de Hadoop](https://labex.io/es/courses/quick-start-with-hadoop)                                                                                                          | Principiante | [Iniciar proyecto](https://labex.io/es/courses/quick-start-with-hadoop)                                |
+|      082 | [Copiar archivos grandes manteniendo la estructura](https://labex.io/es/courses/project-copy-specified-files)                                                                         | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-copy-specified-files)                           |
+|      083 | [Implementar un comando personalizado con soporte para papelera](https://labex.io/es/courses/project-avoid-accidental-deletion)                                                       | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-avoid-accidental-deletion)                      |
+|      084 | [Enumeración de RDP y Acceso con Contraseñas Débiles](https://labex.io/es/courses/project-rdp-enumeration-and-weak-password-access)                                                   | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-rdp-enumeration-and-weak-password-access)       |
+|      085 | [Extracción de información de enlaces desde texto](https://labex.io/es/courses/project-extracting-link-information-from-text)                                                         | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-extracting-link-information-from-text)          |
+|      086 | [Estadísticas de Paquetes de Datos de Red](https://labex.io/es/courses/project-network-data-packet-statistics)                                                                        | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-network-data-packet-statistics)                 |
+|      087 | [Configuración de Firewalld](https://labex.io/es/courses/firewalld-configuration)                                                                                                     | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/firewalld-configuration)                                |
+|      088 | [Preparación para LFCS](https://labex.io/es/courses/lfcs-prep)                                                                                                                        | Principiante | [Iniciar proyecto](https://labex.io/es/courses/lfcs-prep)                                              |
+|      089 | [Personalización de la lista de archivos en Linux](https://labex.io/es/courses/project-directory-size)                                                                                | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-directory-size)                                 |
+|      090 | [Huellas digitales de Nmap y el motor de scripting](https://labex.io/es/courses/nmap-fingerprinting-the-scripting-engine)                                                             | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/nmap-fingerprinting-the-scripting-engine)               |
+|      091 | [Administración del Servicio DHCP](https://labex.io/es/courses/dhcp-service-administration)                                                                                           | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/dhcp-service-administration)                            |
+|      092 | [Visualización de Datos con Grafana](https://labex.io/es/courses/grafana-data-visualization)                                                                                          | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/grafana-data-visualization)                             |
+|      093 | [Administración de Servicios de Red](https://labex.io/es/courses/project-network-service-administration)                                                                              | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/project-network-service-administration)                 |
+|      094 | [Nmap Descubrimiento de hosts y escaneo de puertos](https://labex.io/es/courses/mastering-nmap-host-discovery-port-scanning)                                                          | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/mastering-nmap-host-discovery-port-scanning)            |
+|      095 | [Evaluación y gestión de vulnerabilidades](https://labex.io/es/courses/vulnerability-assessment-management)                                                                           | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/vulnerability-assessment-management)                    |
+|      096 | [Enumeración SMB y Acceso de Invitado](https://labex.io/es/courses/project-smb-enumeration-and-guest-access)                                                                          | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-smb-enumeration-and-guest-access)               |
+|      097 | [Compartición de Archivos NFS y Samba](https://labex.io/es/courses/nfs-and-samba-file-sharing)                                                                                        | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/nfs-and-samba-file-sharing)                             |
+|      098 | [Administración de SELinux](https://labex.io/es/courses/selinux-administration)                                                                                                       | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/selinux-administration)                                 |
+|      099 | [Obtener el programa que cumple la condición](https://labex.io/es/courses/project-get-program-that-satisfies-the-condition)                                                           | Principiante | [Iniciar proyecto](https://labex.io/es/courses/project-get-program-that-satisfies-the-condition)       |
+|      100 | [Alta Disponibilidad con Keepalived](https://labex.io/es/courses/keepalived-high-availability)                                                                                        | Intermedio   | [Iniciar proyecto](https://labex.io/es/courses/keepalived-high-availability)                           |
 
-## Desafíos
+[Ver más en LabEx](https://labex.io/es/learn/linux)
 
-Usa estos desafíos cortos de Linux para practicar habilidades específicas después de terminar un proyecto o cuando quieras una sesión de programación más breve.
+## About LabEx
 
-|   Índice | Nombre                                                                                                                                               | Dificultad   | Práctica                                                                                              |
-|----------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------|
-|       01 | [Mostrar información de usuario y grupo](https://labex.io/es/labs/linux-display-user-and-group-information-8718)                                     | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-display-user-and-group-information-8718)             |
-|       02 | [Archivos y Directorios](https://labex.io/es/labs/linux-files-and-directories-270246)                                                                | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-files-and-directories-270246)                        |
-|       03 | [El Misterio del Manuscrito](https://labex.io/es/labs/linux-the-manuscript-mystery-384742)                                                           | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-the-manuscript-mystery-384742)                       |
-|       04 | [Cambiar la Propiedad de un Archivo](https://labex.io/es/labs/shell-change-file-ownership-270254)                                                    | Principiante | [Iniciar Desafío](https://labex.io/es/labs/shell-change-file-ownership-270254)                        |
-|       05 | [Crear un saludo personalizado en la terminal](https://labex.io/es/labs/linux-create-personalized-terminal-greeting-446322)                          | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-create-personalized-terminal-greeting-446322)        |
-|       06 | [El truco del Joker](https://labex.io/es/labs/linux-the-joker-s-trick-270247)                                                                        | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-the-joker-s-trick-270247)                            |
-|       07 | [Reconocimiento del Terreno](https://labex.io/es/labs/linux-day-1-the-lay-of-the-land-596200)                                                        | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-day-1-the-lay-of-the-land-596200)                    |
-|       08 | [El Arquitecto Digital](https://labex.io/es/labs/linux-day-2-the-digital-architect-596201)                                                           | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-day-2-the-digital-architect-596201)                  |
-|       09 | [El Investigador de Registros](https://labex.io/es/labs/linux-day-3-the-log-investigator-596202)                                                     | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-day-3-the-log-investigator-596202)                   |
-|       10 | [Eliminar y Mover Archivos](https://labex.io/es/labs/linux-delete-and-move-files-7777)                                                               | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-delete-and-move-files-7777)                          |
-|       11 | [El Guardián de la Fortaleza](https://labex.io/es/labs/linux-day-4-the-fortress-guardian-596203)                                                     | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-day-4-the-fortress-guardian-596203)                  |
-|       12 | [Añadir nuevos usuarios y grupos](https://labex.io/es/labs/linux-add-new-user-and-group-17987)                                                       | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-add-new-user-and-group-17987)                        |
-|       13 | [El Guardián de las Llaves](https://labex.io/es/labs/linux-day-5-the-keeper-of-the-keys-596204)                                                      | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-day-5-the-keeper-of-the-keys-596204)                 |
-|       14 | [Navegación por Directorios en Linux](https://labex.io/es/labs/linux-directory-navigation-387844)                                                    | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-directory-navigation-387844)                         |
-|       15 | [Operación Salto Cuántico](https://labex.io/es/labs/git-operation-quantum-leap-387717)                                                               | Principiante | [Iniciar Desafío](https://labex.io/es/labs/git-operation-quantum-leap-387717)                         |
-|       16 | [En busca del tesoro pirata](https://labex.io/es/labs/shell-finding-the-pirate-s-treasure-388807)                                                    | Principiante | [Iniciar Desafío](https://labex.io/es/labs/shell-finding-the-pirate-s-treasure-388807)                |
-|       17 | [Configuración de una Nueva Estructura de Proyecto](https://labex.io/es/labs/linux-setting-up-a-new-project-structure-387859)                        | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-setting-up-a-new-project-structure-387859)           |
-|       18 | [Encontrar un archivo](https://labex.io/es/labs/linux-find-a-file-17993)                                                                             | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-find-a-file-17993)                                   |
-|       19 | [Organización de archivos y directorios](https://labex.io/es/labs/linux-organizing-files-and-directories-387877)                                     | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-organizing-files-and-directories-387877)             |
-|       20 | [Visualización de archivos de registro y configuración en Linux](https://labex.io/es/labs/linux-viewing-log-and-configuration-files-in-linux-387914) | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-viewing-log-and-configuration-files-in-linux-387914) |
-|       21 | [Configuración de Identidad en la Máquina del Tiempo](https://labex.io/es/labs/git-time-machine-identity-configuration-387720)                       | Principiante | [Iniciar Desafío](https://labex.io/es/labs/git-time-machine-identity-configuration-387720)            |
-|       22 | [Exploración de las Tablas del Sistema MySQL](https://labex.io/es/labs/mysql-explore-mysql-system-tables-391702)                                     | Principiante | [Iniciar Desafío](https://labex.io/es/labs/mysql-explore-mysql-system-tables-391702)                  |
-|       23 | [Verificar la versión de Kali Linux](https://labex.io/es/labs/kali-verify-kali-linux-version-552268)                                                 | Intermedio   | [Iniciar Desafío](https://labex.io/es/labs/kali-verify-kali-linux-version-552268)                     |
-|       24 | [La maleta del viajero en el tiempo](https://labex.io/es/labs/git-the-time-traveler-s-suitcase-387725)                                               | Principiante | [Iniciar Desafío](https://labex.io/es/labs/git-the-time-traveler-s-suitcase-387725)                   |
-|       25 | [Detección Rápida de Amenazas](https://labex.io/es/labs/linux-rapid-threat-detection-387930)                                                         | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-rapid-threat-detection-387930)                       |
-|       26 | [Copia de seguridad de registros del sistema](https://labex.io/es/labs/linux-backup-system-log-17989)                                                | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-backup-system-log-17989)                             |
-|       27 | [Descifrado de un Documento de Alto Secreto](https://labex.io/es/labs/linux-decrypting-top-secret-document-415952)                                   | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-decrypting-top-secret-document-415952)               |
-|       28 | [Configuración de Variables de Entorno en Linux](https://labex.io/es/labs/linux-configure-linux-environment-variables-437861)                        | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-configure-linux-environment-variables-437861)        |
-|       29 | [Una aguja en el pajar](https://labex.io/es/labs/linux-needle-in-the-haystack-388109)                                                                | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-needle-in-the-haystack-388109)                       |
-|       30 | [Análisis del uso del disco](https://labex.io/es/labs/linux-analyzing-disk-usage-7775)                                                               | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-analyzing-disk-usage-7775)                           |
-|       31 | [El Supervisor de Procesos](https://labex.io/es/labs/linux-day-6-the-process-overseer-596618)                                                        | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-day-6-the-process-overseer-596618)                   |
-|       32 | [Flujo de Datos de la Batalla Espacial](https://labex.io/es/labs/linux-space-battle-data-pipeline-385343)                                            | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-space-battle-data-pipeline-385343)                   |
-|       33 | [El Navegador de Redes](https://labex.io/es/labs/linux-day-7-the-network-navigator-596619)                                                           | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-day-7-the-network-navigator-596619)                  |
-|       34 | [Análisis de los Directorios del PATH](https://labex.io/es/labs/linux-analyzing-path-directories-385344)                                             | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-analyzing-path-directories-385344)                   |
-|       35 | [Analizar comandos históricos](https://labex.io/es/labs/linux-analyze-historical-commands-17988)                                                     | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-analyze-historical-commands-17988)                   |
-|       36 | [El Guardián del Software](https://labex.io/es/labs/linux-day-8-the-software-steward-596620)                                                         | Avanzado     | [Iniciar Desafío](https://labex.io/es/labs/linux-day-8-the-software-steward-596620)                   |
-|       37 | [Implementar enlaces físicos (hard links) en Linux](https://labex.io/es/labs/rhel-implement-hard-links-in-linux-588253)                              | Principiante | [Iniciar Desafío](https://labex.io/es/labs/rhel-implement-hard-links-in-linux-588253)                 |
-|       38 | [El Centinela de las Copias de Seguridad](https://labex.io/es/labs/linux-day-9-the-backup-sentinel-596621)                                           | Principiante | [Iniciar Desafío](https://labex.io/es/labs/linux-day-9-the-backup-sentinel-596621)                    |
-|       39 | [Conteo de Palabras y Ordenación](https://labex.io/es/labs/linux-word-count-and-sorting-388125)                                                      | Intermedio   | [Iniciar Desafío](https://labex.io/es/labs/linux-word-count-and-sorting-388125)                       |
-|       40 | [Extracción de correos electrónicos y números](https://labex.io/es/labs/linux-extracting-mails-and-numbers-17991)                                    | Intermedio   | [Iniciar Desafío](https://labex.io/es/labs/linux-extracting-mails-and-numbers-17991)                  |
-|       41 | [El Artesano de Scripts](https://labex.io/es/labs/linux-day-10-the-script-artisan-596613)                                                            | Avanzado     | [Iniciar Desafío](https://labex.io/es/labs/linux-day-10-the-script-artisan-596613)                    |
-|       42 | [Inicio de sesión y cambio de usuarios](https://labex.io/es/labs/rhel-log-in-and-switch-users-588260)                                                | Intermedio   | [Iniciar Desafío](https://labex.io/es/labs/rhel-log-in-and-switch-users-588260)                       |
-|       43 | [Instalación y Eliminación de Paquetes](https://labex.io/es/labs/linux-installing-and-removing-packages-385380)                                      | Intermedio   | [Iniciar Desafío](https://labex.io/es/labs/linux-installing-and-removing-packages-385380)             |
-|       44 | [Procesamiento de Datos de Empleados](https://labex.io/es/labs/linux-processing-employees-data-388132)                                               | Intermedio   | [Iniciar Desafío](https://labex.io/es/labs/linux-processing-employees-data-388132)                    |
-|       45 | [Detective del Uso de Disco](https://labex.io/es/labs/linux-disk-usage-detective-388099)                                                             | Intermedio   | [Iniciar Desafío](https://labex.io/es/labs/linux-disk-usage-detective-388099)                         |
-|       46 | [El Dilema del Viajero en el Tiempo](https://labex.io/es/labs/git-the-time-traveler-s-dilemma-387733)                                                | Intermedio   | [Iniciar Desafío](https://labex.io/es/labs/git-the-time-traveler-s-dilemma-387733)                    |
-|       47 | [Gestionar Permisos de Archivos](https://labex.io/es/labs/rhel-manage-file-permissions-588264)                                                       | Principiante | [Iniciar Desafío](https://labex.io/es/labs/rhel-manage-file-permissions-588264)                       |
-|       48 | [Gestión de Registros y Archivos](https://labex.io/es/labs/rhel-manage-logs-and-archives-588265)                                                     | Principiante | [Iniciar Desafío](https://labex.io/es/labs/rhel-manage-logs-and-archives-588265)                      |
-|       49 | [Localizar archivos Setuid](https://labex.io/es/labs/rhel-locate-setuid-files-588259)                                                                | Principiante | [Iniciar Desafío](https://labex.io/es/labs/rhel-locate-setuid-files-588259)                           |
-|       50 | [Creación y Extracción de Archivos Tar](https://labex.io/es/labs/rhel-create-and-extract-tar-archives-588239)                                        | Intermedio   | [Iniciar Desafío](https://labex.io/es/labs/rhel-create-and-extract-tar-archives-588239)               |
-
-Hay más desafíos disponibles en LabEx: [Ver todos los desafíos](https://labex.io/es/challenges).
-
-## Más
-
-- 🔗 [Aprende más sobre Linux en LabEx](https://labex.io/es/skilltrees/linux)
-- 🔗 [Explora más proyectos de programación](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Explora cursos de programación](https://github.com/labex-labs/awesome-programming-courses)
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
